@@ -7,8 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The Computational Social Listening Lab utilizes machine learning, deep learning, and natural language processing methods to uncover insights about health attitudes, behaviors, and outcomes, with a particular focus on health disparities and mental health and wellbeing. This team has developed computational models to measure and understand topics as wide-ranging as life satisfaction, ADHD, misinformation exposure, COVID-19 symptoms, and friendship using large-scale user-generated text, image, and mobile sensor data. 
+
+Currently, the lab’s work focuses on global mental health, vaccine acceptance, and firearms safety. Priorities include:   
+-Digital mental health  
+-Cultural and racial heterogeneity in health behaviors and outcomes  
+-Developing precision public health messaging  
+
 
 {% include section.html %}
 
