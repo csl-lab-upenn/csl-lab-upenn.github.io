@@ -6,72 +6,45 @@ nav:
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
+{:.center}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab is part of the [Univeristy of Pennsylvania](https://www.upenn.edu), at the [Department of Computer and Information Science](https://www.cis.upenn.edu).
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="sharathg@cis.upenn.edu"
+  link="sharathg@cis.upenn.edu"
 %}
 {%
   include button.html
   type="address"
+  text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://goo.gl/maps/8Umu4juUxN9G1m4v6"
 %}
 
 {% include section.html %}
 
+### <i class="fas fa-mail-bulk"></i>Mailing Address
+
+Levine Hall, 3330 Walnut St
+Philadelphia, PA, 19104
+United States
+{:.center}
+
 {% capture col1 %}
-
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/LevineHall.jpg"
+  caption="Levine Hall, 3330 Walnut Street"
 %}
-
 {% endcapture %}
-
 {% capture col2 %}
-
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/UPenn.jpg"
+  caption="University of Pennsylvania Campus"
 %}
-
 {% endcapture %}
-
 {% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}

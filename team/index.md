@@ -32,7 +32,7 @@ We have multiple RA positions available for undergrad and graduate students alre
 
 We have an opening for a postdoc position at the intersection of CS x Psychology. The position is for a 1 year term with the possibility to renew it. 
 
-{% include button.html link="https://bit.ly/penn_postdoc_css" text="Apply Now" icon="" flip=true style="bare" %}
+{% include button.html link="https://bit.ly/penn_postdoc_css" text="Apply Now" %}
 {:.center}
 
 {% include section.html %}
