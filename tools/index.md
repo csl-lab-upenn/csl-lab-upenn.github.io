@@ -17,21 +17,21 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Services
+# Services
 {:.center}
 
 {% include list.html component="card" data="tools" filters="group: service" %}
 
 {% include section.html %}
 
-## Dataset
+# Dataset
 {:.center}
 
 {% include list.html component="card" data="tools" filters="group: dataset" %}
 
 {% include section.html %}
 
-## Code
+# Code
 {:.center}
 
 {% include list.html component="card" data="tools" filters="group: code" %}
