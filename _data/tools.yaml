@@ -4,7 +4,7 @@
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  # repo: greenelab/lab-website-template
   # tags:
   #   - service
 
@@ -14,7 +14,7 @@
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  # repo: greenelab/lab-website-template
   # tags:
   #   - service
 
@@ -23,7 +23,7 @@
   image: images/photo.jpg
   link: https://github.com/chandrasg/covid19_mentalhealth_cnty
   description: Mental health metrics and number of symptom mentions on Twitter are measured daily using pre-trained machine learning models applied to a random 1% Twitter data.
-  repo: chandrasg/covid19_mentalhealth_cnty
+  # repo: chandrasg/covid19_mentalhealth_cnty
   # tags:
   #   - mental health
   #   - dataset
