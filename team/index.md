@@ -6,6 +6,7 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
+{:.center}
 
 Our lab members come from several schools at Penn: Engineering, Wharton, and Medicine. We tackle interdisciplinary problems and strive to promotes respect, equity, and diversity. The team includes investigators, postdocs, staff, students at PhD, Masters, and Undergraduate levels.
 
@@ -23,11 +24,11 @@ Our lab members come from several schools at Penn: Engineering, Wharton, and Med
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-## Join
+# Join
 
 We have multiple RA positions available for undergrad and graduate students already enrolled at UPenn on applying natural language and image processing to health, especially but not limited to – global mental health, vaccine acceptance, and firearms safety. If you’re interested send me an email with your CV and Academic Transcript at sharathg at cis dot upenn dot edu. 
 
-#### Post Doctoral Researcher
+### Post Doctoral Researcher
 
 We have an opening for a postdoc position at the intersection of CS x Psychology. The position is for a 1 year term with the possibility to renew it. 
 
@@ -37,6 +38,7 @@ We have an opening for a postdoc position at the intersection of CS x Psychology
 {% include section.html %}
 
 # Alumni
+{:.center}
 These are past lab members who have moved on to other school programs, new jobs, or elsewhere.
 
 {% include list.html data="members" component="portrait" filters="role: masters, group: alum" %}
@@ -45,6 +47,7 @@ These are past lab members who have moved on to other school programs, new jobs,
 {% include section.html %}
 
 # Funding
+{:.center}
 
 Our work is made possible by funding from several organizations.
 {:.center}
@@ -65,5 +68,3 @@ Our work is made possible by funding from several organizations.
   tooltip3="World Bank Group"
  
 %}
-
-{% include grid.html style="square" content=content %}
