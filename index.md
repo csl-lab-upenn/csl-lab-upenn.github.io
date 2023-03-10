@@ -1,9 +1,11 @@
 ---
+title: CSL Lab | UPenn
+description: Computational Social Listening Lab at UPenn
 ---
 
-# csl-lab-upenn's Website
+# Data Science for Health & Psychology
 
-An engaging 1-3 sentence description of your lab.
+We study individual- and community-level health behaviors across cultures and languages using natural language processing and machine learning methods with a focus on uncovering heterogeneity and disparities.
 
 {% include section.html %}
 
