@@ -5,60 +5,20 @@ nav:
   tooltip: About our team
 ---
 
-# <i class="fas fa-users"></i>Team
+# {% include icon.html icon="fa-solid fa-users" %}Team
 
-Our lab members come from several schools at Penn: Engineering, Wharton, and Medicine. We tackle interdisciplinary problems and strive to promotes respect, equity, and diversity. The team includes investigators, postdocs, staff, students at PhD, Masters, and Undergraduate levels. 
+Our lab members come from several schools at Penn: Engineering, Wharton, and Medicine. We tackle interdisciplinary problems and strive to promotes respect, equity, and diversity. The team includes investigators, postdocs, staff, students at PhD, Masters, and Undergraduate levels.
 
 {% include section.html %}
 
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi, group: "
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: coi, group: "
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: postdoc, group: "
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd, group: "
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: masters, group: "
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: undergrad, group: "
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: visit-student, group: "
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: project-manager, group: "
-%}
+{% include list.html data="members" component="portrait" filters="role: pi, group: " %}
+{% include list.html data="members" component="portrait" filters="role: coi, group: " %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: " %}
+{% include list.html data="members" component="portrait" filters="role: masters, group: " %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
+{% include list.html data="members" component="portrait" filters="role: visit-student, group: " %}
+{% include list.html data="members" component="portrait" filters="role: project-manager, group: " %}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
@@ -79,13 +39,7 @@ We have an opening for a postdoc position at the intersection of CS x Psychology
 # Alumni
 These are past lab members who have moved on to other school programs, new jobs, or elsewhere.
 
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: masters, group: alum"
-  style="small"
-%}
+{% include list.html data="members" component="portrait" filters="role: masters, group: alum" %}
 {:.center}
 
 {% include section.html %}
@@ -111,3 +65,5 @@ Our work is made possible by funding from several organizations.
   tooltip3="World Bank Group"
  
 %}
+
+{% include grid.html style="square" content=content %}
