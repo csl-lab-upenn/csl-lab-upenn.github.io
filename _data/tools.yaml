@@ -3,7 +3,7 @@
   group: service
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Social media data from a variety of sources (including but not limited to Facebook, Twitter, Google search history, and Reddit) is collected and analyzed along with survey data. 
   # repo: greenelab/lab-website-template
   # tags:
   #   - service
