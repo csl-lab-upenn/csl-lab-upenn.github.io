@@ -36,8 +36,7 @@ We utilize machine learning, deep learning, and natural language processing meth
 
 {% capture text %}
 
-Current project topics include: global mental health, vaccine acceptance, and firearms safety.   
-Priorities include: digital mental health, cultural and racial heterogeneity in health behaviors and outcomes, and developing precision public health messaging.
+Current project topics include global mental health, vaccine acceptance, and firearms safety. Priorities include digital mental health, cultural and racial heterogeneity in health behaviors and outcomes, and developing precision public health messaging.
 
 {%
   include button.html
