@@ -13,7 +13,7 @@ We study individual- and community-level health behaviors across cultures and la
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We utilize machine learning, deep learning, and natural language processing methods to uncover insights about health attitudes, behaviors, and outcomes, with a particular focus on health disparities and mental health and wellbeing.
 
 {%
   include button.html
@@ -36,7 +36,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Current project topics include: global mental health, vaccine acceptance, and firearms safety.   
+Priorities include: digital mental health, cultural and racial heterogeneity in health behaviors and outcomes, and developing precision public health messaging.
 
 {%
   include button.html
@@ -61,7 +62,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet our dynamic, interdisciplinary team of investigators, postdocs, staff, and students - and learn how to join our team if you're interested!
 
 {%
   include button.html
