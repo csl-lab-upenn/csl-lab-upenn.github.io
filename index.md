@@ -28,7 +28,7 @@ We utilize machine learning, deep learning, and natural language processing meth
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/icon_online health.webp"
   link="research"
   title="Our Research"
   text=text
@@ -51,7 +51,7 @@ Current project topics include global mental health, vaccine acceptance, and fir
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/icon_phone_image.webp"
   link="projects"
   title="Our Projects"
   flip=true
@@ -76,7 +76,7 @@ Meet our dynamic, interdisciplinary team of investigators, postdocs, staff, and 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team_collage.png"
   link="team"
   title="Our Team"
   text=text
