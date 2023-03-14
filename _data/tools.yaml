@@ -11,7 +11,7 @@
 - title: Digital Phenotyping Using Mobile Sensors
   # subtitle: Service
   group: service
-  image: images/icon_phone_image copy.jpg
+  image: images/icon_phone_image copy2.jpg
   link: https://github.com/
   description: Cell phone data collection services for digital phenotyping and personal sensing research projects using the open-source AWARE framework.
   # repo: greenelab/lab-website-template
@@ -42,7 +42,7 @@
 
 - title: What Twitter profile and posted images reveal about depression and anxiety 
   group: dataset
-  image: images/icon_phone_image copy.jpg
+  image: images/icon_phone_image copy2.jpg
   link: https://raw.githubusercontent.com/chandrasg/chandrasg.github.io/master/files/twitter_depression_images
   description: Domain-related dataset with self-reported age and gender, and text-predicted depression and anxiety scores for users.
   # repo: chandrasg/covid19_mentalhealth_cnty
