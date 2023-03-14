@@ -11,9 +11,9 @@
 - title: Digital Phenotyping Using Mobile Sensors
   # subtitle: Service
   group: service
-  image: images/photo.jpg
+  image: images/icon_phone_image copy.jpg
   link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Cell phone data collection services for digital phenotyping and personal sensing research projects using the open-source AWARE framework.
   # repo: greenelab/lab-website-template
   # tags:
   #   - service
