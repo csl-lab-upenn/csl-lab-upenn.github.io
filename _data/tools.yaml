@@ -1,7 +1,7 @@
 - title: Collecting Social Media Data + Surveys
   # subtitle: Service
   group: service
-  image: images/icon_network.webp
+  image: images/icon_network copy.jpg
   link: https://github.com/
   description: Social media data from a variety of sources (including but not limited to Facebook, Twitter, Google search history, and Reddit) is collected and analyzed along with survey data. 
   # repo: greenelab/lab-website-template
@@ -20,7 +20,7 @@
 
 - title: Twitter estimates of county-level mental health during COVID-19
   group: dataset
-  image: images/icon_location.webp
+  image: images/icon_location copy.jpg
   link: https://github.com/chandrasg/covid19_mentalhealth_cnty
   description: Mental health metrics and number of symptom mentions on Twitter are measured daily using pre-trained machine learning models applied to a random 1% Twitter data.
   # repo: chandrasg/covid19_mentalhealth_cnty
@@ -31,7 +31,7 @@
 
 - title: Language of ADHD in adults on social media
   group: dataset
-  image: images/icon_speech_bubbles.webp 
+  image: images/icon_speech_bubbles copy.jpg 
   link: https://raw.githubusercontent.com/chandrasg/chandrasg.github.io/master/files/twitter_adhd
   description: Twitter data of users with self-disclosed ADHD/ADD.
   # repo: chandrasg/covid19_mentalhealth_cnty
@@ -42,7 +42,7 @@
 
 - title: What Twitter profile and posted images reveal about depression and anxiety 
   group: dataset
-  image: images/icon_phone_image.webp
+  image: images/icon_phone_image copy.jpg
   link: https://raw.githubusercontent.com/chandrasg/chandrasg.github.io/master/files/twitter_depression_images
   description: Domain-related dataset with self-reported age and gender, and text-predicted depression and anxiety scores for users.
   # repo: chandrasg/covid19_mentalhealth_cnty
@@ -53,7 +53,7 @@
 
 - title: Loneliness Lexica
   group: dataset
-  image: images/icon_convo.webp
+  image: images/icon_convo copy.jpg
   link: https://github.com/chandrasg/lexica/blob/master/lonely_lex.csv
   description: Lorem ipsum
   # repo: chandrasg/covid19_mentalhealth_cnty
@@ -64,7 +64,7 @@
 
 - title: Stress Lexica
   group: dataset
-  image: images/icon_convo.webp
+  image: images/icon_convo copy.jpg
   link: https://github.com/chandrasg/lexica/blob/master/stress_1grams_fbtw.csv
   description: Lorem ipsum
   # repo: chandrasg/covid19_mentalhealth_cnty
@@ -75,7 +75,7 @@
 
 - title: Cross-platform and cross-interaction study of user personality based on images on Twitter and Flickr
   group: dataset
-  image: images/icon_images.webp
+  image: images/icon_images copy.jpg
   link: https://github.com/chandrasg/lexica/blob/master/stress_1grams_fbtw.csv
   description: Lorem ipsum
   # repo: chandrasg/covid19_mentalhealth_cnty
@@ -86,7 +86,7 @@
 
 - title: Studying Personality through the Content of Posted and Liked Images on Twitter
   group: dataset
-  image: images/icon_like.webp
+  image: images/icon_like copy.jpg
   link: https://raw.githubusercontent.com/chandrasg/chandrasg.github.io/master/files/acm_websci_data.csv.zip
   description: This data set contains Twitter user ids with their text-predicted Big-Five personality scores.
   # repo: chandrasg/covid19_mentalhealth_cnty
@@ -97,7 +97,7 @@
   
 - title: CP-QAE-I Influence of Personality and Culture on Perception of Quality, Affect and Enjoyment
   group: dataset
-  image: images/icon_video.webp
+  image: images/icon_video copy.jpg
   link: https://www.researchgate.net/publication/281642894_CP-QAE-I_Influence_of_Personality_and_Culture_on_Perception_of_Quality_Affect_and_Enjoyment
   description: This dataset enables research in exploration of the influence of personality (Five-Factor Model) and cultural traits (Hofstede Model) on multimedia-evoked positive and negative affects, perceived quality and enjoyment.
   # repo: chandrasg/covid19_mentalhealth_cnty
@@ -108,7 +108,7 @@
 
 - title: Weekly COVID-19 Twitter Topics
   group: dataset
-  image: images/icon_covid.webp
+  image: images/icon_covid copy.jpg
   link: https://github.com/wwbp/weekly_covid_lda_topics
   description: A set of 40 covid-related topics (per week) derived from Twitter starting on March 12, 2020.
   # repo: chandrasg/covid19_mentalhealth_cnty
@@ -118,7 +118,7 @@
 
 - title: Weibo and Twitter word embeddings for 2012-2018, part of which was used in Studying Cultural Differences in Emoji Usage across the East and the West
   group: dataset
-  image: images/icon_text.webp
+  image: images/icon_text copy.jpg
   link: https://docs.google.com/forms/d/e/1FAIpQLSdAlsH58xhZKbwjURrF24mc3UCTENOG1GC5VJCvdpebXp34og/viewform
   description: Wbbyyr (WeiBo-BY-YeaR) is a set of 70 Word Embedding models trained on Sina Weibo posts.
   # repo: chandrasg/covid19_mentalhealth_cnty
@@ -128,7 +128,7 @@
 
 - title: Lexica
   group: code
-  image: images/icon_convo.webp
+  image: images/icon_convo copy.jpg
   link: https://github.com/chandrasg/lexica
   description: Ongoing list of useful lexica in Computational Social Science
   # repo: chandrasg/covid19_mentalhealth_cnty
@@ -137,7 +137,7 @@
 
 - title: Convolutional Deep Belief Networks for Scalable Unsupervised Learning of Hierarchical Representations
   group: code
-  image: images/icon_ml.webp
+  image: images/icon_ml copy.jpg
   link: https://github.com/chandrasg/CDBN
   description: Matlab implementation of Convolutional Deep Belief Networks
   # repo: chandrasg/covid19_mentalhealth_cnty
@@ -146,7 +146,7 @@
 
 - title: Script for downloading users' photos (tagged as favorite) along with profile information.
   group: code
-  image: images/icon_images.webp
+  image: images/icon_images copy.jpg
   link: https://github.com/chandrasg/flickrapi_downloadfavorites
   description: Downloads public photos (tagged favorite) of Flickr users, whose usenames are given in a text document
   # repo: chandrasg/covid19_mentalhealth_cnty
