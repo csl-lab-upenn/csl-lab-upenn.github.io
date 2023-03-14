@@ -51,7 +51,7 @@ Current project topics include global mental health, vaccine acceptance, and fir
 
 {%
   include feature.html
-  image="images/icon_phone_image.webp"
+  image="images/icon_phone_image copy.jpg"
   link="projects"
   title="Our Projects"
   flip=true
