@@ -76,7 +76,7 @@ Meet our dynamic, interdisciplinary team of investigators, postdocs, staff, and 
 
 {%
   include feature.html
-  image="images/team_collage.png"
+  image="images/team_collage2.png"
   link="team"
   title="Our Team"
   text=text
