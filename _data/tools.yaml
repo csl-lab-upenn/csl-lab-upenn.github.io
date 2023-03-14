@@ -53,7 +53,7 @@
 
 - title: Loneliness Lexica
   group: dataset
-  image: images/photo.jpg
+  image: images/icon_convo.webp
   link: https://github.com/chandrasg/lexica/blob/master/lonely_lex.csv
   description: Lorem ipsum
   # repo: chandrasg/covid19_mentalhealth_cnty
@@ -64,7 +64,7 @@
 
 - title: Stress Lexica
   group: dataset
-  image: images/photo.jpg
+  image: images/icon_convo.webp
   link: https://github.com/chandrasg/lexica/blob/master/stress_1grams_fbtw.csv
   description: Lorem ipsum
   # repo: chandrasg/covid19_mentalhealth_cnty
@@ -128,7 +128,7 @@
 
 - title: Lexica
   group: code
-  image: images/photo.jpg
+  image: images/icon_convo.webp
   link: https://github.com/chandrasg/lexica
   description: Ongoing list of useful lexica in Computational Social Science
   # repo: chandrasg/covid19_mentalhealth_cnty
@@ -137,7 +137,7 @@
 
 - title: Convolutional Deep Belief Networks for Scalable Unsupervised Learning of Hierarchical Representations
   group: code
-  image: images/photo.jpg
+  image: images/icon_ml.webp
   link: https://github.com/chandrasg/CDBN
   description: Matlab implementation of Convolutional Deep Belief Networks
   # repo: chandrasg/covid19_mentalhealth_cnty
@@ -146,7 +146,7 @@
 
 - title: Script for downloading users' photos (tagged as favorite) along with profile information.
   group: code
-  image: images/photo.jpg
+  image: images/icon_images.webp
   link: https://github.com/chandrasg/flickrapi_downloadfavorites
   description: Downloads public photos (tagged favorite) of Flickr users, whose usenames are given in a text document
   # repo: chandrasg/covid19_mentalhealth_cnty
