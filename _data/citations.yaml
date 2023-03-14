@@ -1062,6 +1062,22 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:dTyEYWd-f8wC
+  title: Nonintrusive Perceptual Audio Quality Assessment for User-Generated Content
+    Using Deep Learning
+  authors:
+  - D Mumtaz
+  - V Jakhetiya
+  - K Nathwani
+  - BN Subudhi
+  - SC Guntuku
+  publisher: IEEE Transactions on Industrial Informatics 18 (11), 7780-7789, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:dTyEYWd-f8wC
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 76_hrfUAAAAJ:q3oQSFYPqjQC
   title: 'Improving mood through community connection and resources using an interactive
     digital platform: development and usability study'
@@ -1163,22 +1179,6 @@
   publisher: JMIR Formative Research 6 (3), e28379, 2022
   date: '2022-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:ye4kPcJQO24C
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:dTyEYWd-f8wC
-  title: Nonintrusive Perceptual Audio Quality Assessment for User-Generated Content
-    Using Deep Learning
-  authors:
-  - D Mumtaz
-  - V Jakhetiya
-  - K Nathwani
-  - BN Subudhi
-  - SC Guntuku
-  publisher: IEEE Transactions on Industrial Informatics 18 (11), 7780-7789, 2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:dTyEYWd-f8wC
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
