@@ -12,7 +12,7 @@
   # subtitle: Service
   group: service
   image: images/icon_phone_image copy2.jpg
-  link: https://github.com/
+  link: _posts/digital-phenotyping.md
   description: Cell phone data collection services for digital phenotyping and personal sensing research projects using the open-source AWARE framework.
   # repo: greenelab/lab-website-template
   # tags:
@@ -49,28 +49,6 @@
   # tags:
   #   - mental health
   #   - dataset
-  #   - publication
-
-- title: Loneliness Lexica
-  group: dataset
-  image: images/icon_convo copy.jpg
-  link: https://github.com/chandrasg/lexica/blob/master/lonely_lex.csv
-  description: Lorem ipsum
-  # repo: chandrasg/covid19_mentalhealth_cnty
-  # tags:
-  #   - mental health
-  #   - lexica
-  #   - publication
-
-- title: Stress Lexica
-  group: dataset
-  image: images/icon_convo copy.jpg
-  link: https://github.com/chandrasg/lexica/blob/master/stress_1grams_fbtw.csv
-  description: Lorem ipsum
-  # repo: chandrasg/covid19_mentalhealth_cnty
-  # tags:
-  #   - mental health
-  #   - lexica
   #   - publication
 
 - title: Cross-platform and cross-interaction study of user personality based on images on Twitter and Flickr
