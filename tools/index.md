@@ -8,8 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-wrench" %}Tools
 {:.center}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Below are services and tools (including datasets and code) offered by the lab. Please reach out to sharathg at seas.upenn.edu if you're interested in learning more about our services. Researchers may download datasets and code from the links below.
 
 {% include tags.html tags="service, dataset, code" %}
 
