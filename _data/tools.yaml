@@ -12,7 +12,7 @@
   # subtitle: Service
   group: service
   image: images/icon_phone_image copy2.jpg
-  link: _posts/digital-phenotyping.md
+  link: https://wwbp.org/services/
   description: Cell phone data collection services for digital phenotyping and personal sensing research projects using the open-source AWARE framework.
   # repo: greenelab/lab-website-template
   # tags:
