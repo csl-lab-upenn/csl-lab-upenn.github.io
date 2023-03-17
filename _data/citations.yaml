@@ -514,23 +514,6 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:nb7KW1ujOQ8C
-  title: Variability in Language used on Social Media Prior to Hospital Visits
-  authors:
-  - SC Guntuku
-  - HA Schwartz
-  - A Kashyap
-  - JS Gaulton
-  - DC Stokes
-  - DA Asch
-  - '...'
-  publisher: Scientific Reports 10 (1), 2020
-  date: '2020-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:nb7KW1ujOQ8C
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: 76_hrfUAAAAJ:J-pR_7NvFogC
   title: Detecting Covid-19 and Community Acquired Pneumonia Using Chest CT Scan Images
     With Deep Learning
@@ -545,6 +528,23 @@
     \ \u2026, 2021"
   date: '2021-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:J-pR_7NvFogC
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:nb7KW1ujOQ8C
+  title: Variability in Language used on Social Media Prior to Hospital Visits
+  authors:
+  - SC Guntuku
+  - HA Schwartz
+  - A Kashyap
+  - JS Gaulton
+  - DC Stokes
+  - DA Asch
+  - '...'
+  publisher: Scientific Reports 10 (1), 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:nb7KW1ujOQ8C
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
@@ -1270,7 +1270,7 @@
   - JC Eichstaedt
   - LH Ungar
   - SC Guntuku
-  publisher: ''
+  publisher: ACM Web Sciences, 2023
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:-_dYPAW6P2MC
   gsid: 76_hrfUAAAAJ&hl=en
