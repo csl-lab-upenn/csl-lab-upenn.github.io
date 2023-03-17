@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-03-17T05:21:59+00:00</updated><id>/feed.xml</id><title type="html">Computational Social Listening Lab | UPenn</title><subtitle>Data Science x Health &amp; Psychology</subtitle><entry><title type="html">Digital Phenotyping</title><link href="/2023/03/17/digital-phenotyping.html" rel="alternate" type="text/html" title="Digital Phenotyping" /><published>2023-03-17T00:00:00+00:00</published><updated>2023-03-17T05:20:36+00:00</updated><id>/2023/03/17/digital-phenotyping</id><content type="html" xml:base="/2023/03/17/digital-phenotyping.html"><![CDATA[<h1 class="center"></h1>
-
-<p>The Computational Social Listening Lab offers cell phone data collection services for digital phenotyping and personal sensing research projects using the open-source AWARE framework.</p>
-
-<!-- section break -->
-<!--
-  background: ;
-  dark: ;
-  size: ;
--->
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-03-17T05:34:38+00:00</updated><id>/feed.xml</id><title type="html">Computational Social Listening Lab | UPenn</title><subtitle>Data Science x Health &amp; Psychology</subtitle><entry><title type="html">Digital Phenotyping and Personal Sensing Data Collection Services</title><link href="/2023/03/17/digital-phenotyping.html" rel="alternate" type="text/html" title="Digital Phenotyping and Personal Sensing Data Collection Services" /><published>2023-03-17T00:00:00+00:00</published><updated>2023-03-17T05:33:07+00:00</updated><id>/2023/03/17/digital-phenotyping</id><content type="html" xml:base="/2023/03/17/digital-phenotyping.html"><![CDATA[<p>The Computational Social Listening Lab offers cell phone data collection services for digital phenotyping and personal sensing research projects using the open-source AWARE framework.</p>
 
 <h2 id="aware-framework">AWARE framework</h2>
 <p>The <a href="https://awareframework.com/">AWARE framework</a> is an open-source software package designed for cell phone data collection. The purpose of AWARE is to enable scientific research using cell phone data.</p>
@@ -49,13 +40,6 @@
 
 <p>The precise data collected varies depending on cell phone operating type (Android or iOS). For up-to-date details, please see this page: https://awareframework.com/sensors/.</p>
 
-<!-- section break -->
-<!--
-  background: ;
-  dark: ;
-  size: ;
--->
-
 <h2 id="services-offered">Services Offered</h2>
 <p>We have experience deploying both components of the AWARE framework for research purposes, and we can provide the following services to your research group:</p>
 
@@ -94,13 +78,6 @@
 
 <p>Please note that the AWARE framework is open-source and free to use. We are not selling this software; we are selling our services in helping you deploy and use this software.</p>
 
-<!-- section break -->
-<!--
-  background: ;
-  dark: ;
-  size: ;
--->
-
 <h2 id="additional-services">Additional Services</h2>
 <p>We will provide updates/fixes for the AWARE framework if and when they become available. We have no obligation to provide maintenance, support, updates, enhancements or modifications for AWARE.</p>
 
@@ -108,12 +85,5 @@
 
 <p>We will provide access to the AWARE wiki.</p>
 
-<!-- section break -->
-<!--
-  background: ;
-  dark: ;
-  size: ;
--->
-
 <h2 id="contact">Contact</h2>
-<p>Please contact Sharath Guntuku (sharathg at cis.upenn.edu) for additional information or to schedule a phone call to assess your digital phenotyping and personal sensing data collection needs.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry></feed>
+<p>Please contact Sharath Guntuku (sharathg at cis.upenn.edu) for additional information or to schedule a phone call to assess your digital phenotyping and personal sensing data collection needs.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[The Computational Social Listening Lab offers cell phone data collection services for digital phenotyping and personal sensing research projects using the open-source AWARE framework.]]></summary></entry></feed>
