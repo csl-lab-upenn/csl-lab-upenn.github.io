@@ -1,1 +1,119 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-03-17T05:04:18+00:00</updated><id>/feed.xml</id><title type="html">Computational Social Listening Lab | UPenn</title><subtitle>Data Science x Health &amp; Psychology</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-03-17T05:21:59+00:00</updated><id>/feed.xml</id><title type="html">Computational Social Listening Lab | UPenn</title><subtitle>Data Science x Health &amp; Psychology</subtitle><entry><title type="html">Digital Phenotyping</title><link href="/2023/03/17/digital-phenotyping.html" rel="alternate" type="text/html" title="Digital Phenotyping" /><published>2023-03-17T00:00:00+00:00</published><updated>2023-03-17T05:20:36+00:00</updated><id>/2023/03/17/digital-phenotyping</id><content type="html" xml:base="/2023/03/17/digital-phenotyping.html"><![CDATA[<h1 class="center"></h1>
+
+<p>The Computational Social Listening Lab offers cell phone data collection services for digital phenotyping and personal sensing research projects using the open-source AWARE framework.</p>
+
+<!-- section break -->
+<!--
+  background: ;
+  dark: ;
+  size: ;
+-->
+
+<h2 id="aware-framework">AWARE framework</h2>
+<p>The <a href="https://awareframework.com/">AWARE framework</a> is an open-source software package designed for cell phone data collection. The purpose of AWARE is to enable scientific research using cell phone data.</p>
+
+<p>AWARE consists of two primary components:</p>
+<ol>
+  <li>A cell phone app that runs on study participants’ cell phones (Android and iOS) accessing and transmitting <a href="https://awareframework.com/sensors/">sensor data</a></li>
+  <li>A server that collects and stores this data</li>
+</ol>
+
+<h3 id="data-collected">Data Collected</h3>
+<p>The AWARE framework measures data for the following sensors and data sources:</p>
+
+<ul>
+  <li>Accelerometer</li>
+  <li>Applications (Android only)</li>
+  <li>Barometer</li>
+  <li>Battery</li>
+  <li>Bluetooth</li>
+  <li>Communication</li>
+  <li>ESM</li>
+  <li>Gravity</li>
+  <li>Gyroscope</li>
+  <li>App installations (Android only)</li>
+  <li>Light (Android only)</li>
+  <li>Linear accelerometer</li>
+  <li>Locations</li>
+  <li>Magnetometer</li>
+  <li>Network</li>
+  <li>Keyboard (Android only)</li>
+  <li>Processor</li>
+  <li>Proximity (Android only)</li>
+  <li>Rotation</li>
+  <li>Screen</li>
+  <li>Telephony (Android only)</li>
+  <li>Temperature (Android only)</li>
+  <li>Wifi Network</li>
+</ul>
+
+<p>The precise data collected varies depending on cell phone operating type (Android or iOS). For up-to-date details, please see this page: https://awareframework.com/sensors/.</p>
+
+<!-- section break -->
+<!--
+  background: ;
+  dark: ;
+  size: ;
+-->
+
+<h2 id="services-offered">Services Offered</h2>
+<p>We have experience deploying both components of the AWARE framework for research purposes, and we can provide the following services to your research group:</p>
+
+<ul>
+  <li>Cloning of the AWARE server</li>
+  <li>Hosting of the AWARE server</li>
+  <li>Monitoring of data collection</li>
+  <li>Analysis of data</li>
+  <li>Customization to the AWARE cell phone app or server</li>
+</ul>
+
+<p>Please note that you are responsible for recruiting study participants and for installing the AWARE cell phone app on study participants’ phones. We can provide guidance on how to install the AWARE cell phone app.</p>
+
+<h3 id="cloning">Cloning</h3>
+<p>Our cloning services provide you with access to a functional AWARE server running on an Amazon EC2 virtual server. You are responsible for hosting costs and server administration. Server administrators should be familiar with the Linux, Apache, MySQL, and PHP (LAMP) stack.</p>
+
+<h3 id="hosting">Hosting</h3>
+<p>Our hosting services provide you with access to a functional AWARE server that we will host on an Amazon EC2 virtual server. This service includes both cloning and server administration.</p>
+
+<h3 id="monitoring">Monitoring</h3>
+<p>We can provide data collection monitoring using our in-house AWARE monitoring dashboard. This service ensures that data collection interruptions are identified and addressed in a timely fashion.</p>
+
+<h3 id="analysis">Analysis</h3>
+<p>We can additionally provide analysis of the data collected with AWARE. These analysis services will be tailored to your specific needs, and generally involve close collaboration. Please reach out to us to discuss the type of analysis required for your project.</p>
+
+<h3 id="packages">Packages</h3>
+<p>We offer the following standard packages:</p>
+<ul>
+  <li>Cloning</li>
+  <li>Hosting</li>
+  <li>Hosting, monitoring, and analysis</li>
+  <li>Hosting, monitoring, and analysis with cusotmizations</li>
+</ul>
+
+<p>Our standard pricing structure reflects a study with up to 500 research subjects and a duration of less than one year. Please contact Sharath Guntuku at sharathg at cis.upenn.edu for a custom cost estimate or if the packages listed above do not meet your needs.</p>
+
+<p>Please note that the AWARE framework is open-source and free to use. We are not selling this software; we are selling our services in helping you deploy and use this software.</p>
+
+<!-- section break -->
+<!--
+  background: ;
+  dark: ;
+  size: ;
+-->
+
+<h2 id="additional-services">Additional Services</h2>
+<p>We will provide updates/fixes for the AWARE framework if and when they become available. We have no obligation to provide maintenance, support, updates, enhancements or modifications for AWARE.</p>
+
+<p>We will schedule calls with your staff for consultation on the AWARE framework as needed, but not more often than once a week.</p>
+
+<p>We will provide access to the AWARE wiki.</p>
+
+<!-- section break -->
+<!--
+  background: ;
+  dark: ;
+  size: ;
+-->
+
+<h2 id="contact">Contact</h2>
+<p>Please contact Sharath Guntuku (sharathg at cis.upenn.edu) for additional information or to schedule a phone call to assess your digital phenotyping and personal sensing data collection needs.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry></feed>
