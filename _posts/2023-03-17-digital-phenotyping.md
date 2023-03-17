@@ -1,8 +1,8 @@
-<h1 class="center">{{ Digital Phenotyping and Personal Sensing Data Collection Services }}</h1>
+---
+title: Digital Phenotyping and Personal Sensing Data Collection Services
+---
 
 The Computational Social Listening Lab offers cell phone data collection services for digital phenotyping and personal sensing research projects using the open-source AWARE framework.
-
-{% include section.html %}
 
 ## AWARE framework
 The [AWARE framework](https://awareframework.com/) is an open-source software package designed for cell phone data collection. The purpose of AWARE is to enable scientific research using cell phone data.
@@ -40,8 +40,6 @@ The AWARE framework measures data for the following sensors and data sources:
 
 The precise data collected varies depending on cell phone operating type (Android or iOS). For up-to-date details, please see this page: https://awareframework.com/sensors/.
 
-{% include section.html %}
-
 ## Services Offered
 We have experience deploying both components of the AWARE framework for research purposes, and we can provide the following services to your research group:
 
@@ -76,16 +74,12 @@ Our standard pricing structure reflects a study with up to 500 research subjects
 
 Please note that the AWARE framework is open-source and free to use. We are not selling this software; we are selling our services in helping you deploy and use this software.
 
-{% include section.html %}
-
 ## Additional Services
 We will provide updates/fixes for the AWARE framework if and when they become available. We have no obligation to provide maintenance, support, updates, enhancements or modifications for AWARE.
 
 We will schedule calls with your staff for consultation on the AWARE framework as needed, but not more often than once a week.
 
 We will provide access to the AWARE wiki.
-
-{% include section.html %}
 
 ## Contact
 Please contact Sharath Guntuku (sharathg at cis.upenn.edu) for additional information or to schedule a phone call to assess your digital phenotyping and personal sensing data collection needs.
