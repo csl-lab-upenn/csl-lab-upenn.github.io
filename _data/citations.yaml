@@ -660,6 +660,22 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:L8Ckcad2t8MC
+  title: Just noticeable difference for natural images using RMS contrast and feed-back
+    mechanism
+  authors:
+  - V Jakhetiya
+  - W Lin
+  - S Jaiswal
+  - K Gu
+  - SC Guntuku
+  publisher: Neurocomputing 275, 366-376, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:L8Ckcad2t8MC
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 76_hrfUAAAAJ:kNdYIx-mwKoC
   title: Understanding Deep Representations Learned in Modeling User `Likes'
   authors:
@@ -705,22 +721,6 @@
   publisher: 'Journal of Experimental Psychology: General 149 (11), 2154, 2020'
   date: '2020-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:b0M2c_1WBrUC
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:L8Ckcad2t8MC
-  title: Just noticeable difference for natural images using RMS contrast and feed-back
-    mechanism
-  authors:
-  - V Jakhetiya
-  - W Lin
-  - S Jaiswal
-  - K Gu
-  - SC Guntuku
-  publisher: Neurocomputing 275, 366-376, 2018
-  date: '2018-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:L8Ckcad2t8MC
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
