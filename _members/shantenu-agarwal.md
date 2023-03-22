@@ -1,6 +1,6 @@
 ---
 name: Shantenu Agarwal 
-image: images/ShantenuAgarwal.jpeg
+image: images/ShantenuAgarwal.jpg
 role: masters
 group: alum
 links:
