@@ -240,6 +240,21 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:zA6iFVUQeVQC
+  title: Studying cultural differences in emoji usage across the east and the west
+  authors:
+  - SC Guntuku
+  - M Li
+  - L Tay
+  - LH Ungar
+  publisher: "Proceedings of the international AAAI conference on web and social media\
+    \ 13 \u2026, 2019"
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:zA6iFVUQeVQC
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 76_hrfUAAAAJ:eQOLeE2rZwMC
   title: Optimisation of turning parameters by integrating genetic algorithm with
     support vector regression and artificial neural networks
@@ -252,21 +267,6 @@
     2015
   date: '2015-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:eQOLeE2rZwMC
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:zA6iFVUQeVQC
-  title: Studying cultural differences in emoji usage across the east and the west
-  authors:
-  - SC Guntuku
-  - M Li
-  - L Tay
-  - LH Ungar
-  publisher: "Proceedings of the international AAAI conference on web and social media\
-    \ 13 \u2026, 2019"
-  date: '2019-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:zA6iFVUQeVQC
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
