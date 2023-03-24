@@ -3,6 +3,7 @@ name: Karan Wanchoo
 image: images/KaranWanchoo.jpg
 role: masters
 group: alum
+job: Data Science Specialist, McKinsey & Company
 links:
   orcid: 0000-0001-7427-6040
   home-page: https://wanchoo93.github.io/

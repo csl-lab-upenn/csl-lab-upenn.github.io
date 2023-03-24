@@ -3,6 +3,7 @@ name: Mingyang Li
 image: images/MingyangLi.jpg
 role: masters
 group: alum
+job: Member of Technical Staff, eBay
 links:
   orcid: 0000-0002-8344-8462
   home-page: https://myli.page

@@ -2,8 +2,8 @@
 name: Yuchen Zhang
 image: images/YuchenZhang.jpeg
 role: masters
-job: Research Engineer, Meta AI
 group: alum
+job: Research Engineer, Meta AI
 links:
   email: alicezhang727@gmail.com
   github: zycalice

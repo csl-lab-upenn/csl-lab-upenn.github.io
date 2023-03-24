@@ -2,6 +2,7 @@
 name: Agrima Seth
 image: images/AgrimaSeth.jpg
 role: masters
+job: PhD Student, University of Michigan
 group: alum
 links:
   orcid: 0000-0001-8547-6304
