@@ -75,4 +75,4 @@ Our work is made possible by funding from several organizations.
 
 Lorem ipsum.
 
-{% include list.html data="collabs" component="portrait" %}
+{% include list.html data="collabs" component="portrait-collab" %}
