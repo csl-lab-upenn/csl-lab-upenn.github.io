@@ -22,7 +22,7 @@ defaults:
       type: members
     values:
       layout: member
-    - scope:
+  - scope:
       type: collabs
     values:
       layout: member
