@@ -2,7 +2,7 @@
 name: Yuchen Zhang
 image: images/YuchenZhang.jpeg
 role: masters
-description: Research Engineer, Meta AI
+job: Research Engineer, Meta AI
 group: alum
 links:
   email: alicezhang727@gmail.com
