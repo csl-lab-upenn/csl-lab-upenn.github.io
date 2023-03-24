@@ -70,6 +70,8 @@ Our work is made possible by funding from several organizations.
  
 %}
 
+{% include section.html %}
+
 # Current Collaborators
 {:.center}
 
