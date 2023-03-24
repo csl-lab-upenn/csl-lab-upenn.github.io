@@ -25,7 +25,7 @@ defaults:
   - scope:
       type: collabs
     values:
-      layout: member
+      layout: collab
   - scope:
       type: posts
     values:
