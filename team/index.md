@@ -25,6 +25,7 @@ Our lab members come from several schools at Penn: Engineering, Wharton, and Med
 {% include section.html background="images/banner.jpg" dark=true%}
 
 # Join
+{:.center}
 
 We have multiple RA positions available for undergrad and graduate students already enrolled at UPenn on applying natural language and image processing to health, especially but not limited to – global mental health, vaccine acceptance, and firearms safety. If you’re interested send me an email with your CV and Academic Transcript at sharathg at cis dot upenn dot edu. 
 
@@ -68,3 +69,10 @@ Our work is made possible by funding from several organizations.
   tooltip3="World Bank Group"
  
 %}
+
+# Current Collaborators
+{:.center}
+
+Lorem ipsum.
+
+{% include list.html data="collabs" component="portrait" %}
