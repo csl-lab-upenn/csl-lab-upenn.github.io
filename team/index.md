@@ -75,6 +75,4 @@ Our work is made possible by funding from several organizations.
 # Current Collaborators
 {:.center}
 
-Lorem ipsum.
-
 {% include list.html data="collabs" component="portrait-collab" %}
