@@ -3,7 +3,8 @@ name: Shantenu Agarwal
 image: images/ShantenuAgarwal.jpg
 role: masters
 group: alum
-job: Vice President, Soul Machines
+job: Vice President
+affil: Soul Machines
 links:
   twitter: https://twitter.com/shantenuagarwal
   linkedin: www.linkedin.com/in/shantenuagarwal

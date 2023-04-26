@@ -3,7 +3,8 @@ name: Harry Wang
 image: images/HarryWang.jpeg
 role: masters
 group: alum
-job: Machine Learning Engineer, Pinterest
+job: Machine Learning Engineer
+affil: Pinterest
 links:
   twitter: https://twitter.com/shantenuagarwal
   linkedin: https://www.linkedin.com/in/harry-w-680615126/
