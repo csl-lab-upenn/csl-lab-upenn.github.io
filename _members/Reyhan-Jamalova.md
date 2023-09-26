@@ -3,10 +3,7 @@ name: Reyhan Jamalova
 image: images/ReyhanJamalova.jpg
 role: undergrad
 links:
-  home-page: https://shreyahavaldar.com/
   email: jreyhan@seas.upenn.edu
-  google-scholar: h2tzi9MAAAAJ&hl=en
-  github: shreyahavaldar
   twitter: reyhan_jamalova
 ---
 
