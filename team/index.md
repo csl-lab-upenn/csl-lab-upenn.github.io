@@ -42,7 +42,7 @@ We have an opening for a postdoc position at the intersection of CS x Psychology
 {:.center}
 These are past lab members who have moved on to other school programs, new jobs, or elsewhere.
 
-{% include list.html data="members" component="portrait" filters="role: masters, group: alum" %}
+{% include list.html data="members" component="portrait" filters="group: alum" %}
 {:.center}
 
 {% include section.html %}
