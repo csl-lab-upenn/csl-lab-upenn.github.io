@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Team
 {:.center}
 
-Our lab members come from several schools at Penn: Engineering, Wharton, and Medicine. We tackle interdisciplinary problems and strive to promotes respect, equity, and diversity. The team includes investigators, postdocs, staff, students at PhD, Masters, and Undergraduate levels.
+Our lab members come from several schools at Penn: Engineering, Wharton, and Medicine. We tackle interdisciplinary problems and strive to promote respect, equity, and diversity. The team includes investigators, postdocs, staff, and students at PhD, Masters, and Undergraduate levels.
 
 {% include section.html %}
 
