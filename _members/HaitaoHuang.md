@@ -1,7 +1,7 @@
 ---
 name: Haitao Huang
 image: images/HaitaoHuang.jpg
-role: Data Scientist
+role: data-scientist
 
 ---
 
