@@ -531,6 +531,22 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:vRqMK49ujn8C
+  title: 'How Health Care Workers Wield Influence Through Twitter Hashtags: Retrospective
+    Cross-sectional Study of the Gun Violence and COVID-19 Public Health Crises'
+  authors:
+  - A Ojo*
+  - SC Guntuku*
+  - M Zheng
+  - RS Beidas
+  - ML Ranney
+  publisher: JMIR Public Health and Surveillance 7 (1), e24562, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:vRqMK49ujn8C
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 76_hrfUAAAAJ:hqOjcs7Dif8C
   title: 'Modelling human factors in perceptual multimedia quality: On the role of
     personality and culture'
@@ -544,22 +560,6 @@
     2015
   date: '2015-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:hqOjcs7Dif8C
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:vRqMK49ujn8C
-  title: 'How Health Care Workers Wield Influence Through Twitter Hashtags: Retrospective
-    Cross-sectional Study of the Gun Violence and COVID-19 Public Health Crises'
-  authors:
-  - A Ojo*
-  - SC Guntuku*
-  - M Zheng
-  - RS Beidas
-  - ML Ranney
-  publisher: JMIR Public Health and Surveillance 7 (1), e24562, 2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:vRqMK49ujn8C
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
@@ -660,6 +660,23 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:b0M2c_1WBrUC
+  title: "Political depression? A big-data, multimethod investigation of Americans\u2019\
+    \ emotional response to the Trump presidency."
+  authors:
+  - A Simchon
+  - SC Guntuku
+  - R Simhon
+  - LH Ungar
+  - RR Hassin
+  - M Gilead
+  publisher: 'Journal of Experimental Psychology: General 149 (11), 2154, 2020'
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:b0M2c_1WBrUC
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 76_hrfUAAAAJ:L8Ckcad2t8MC
   title: Just noticeable difference for natural images using RMS contrast and feed-back
     mechanism
@@ -689,23 +706,6 @@
     \ \u2026, 2015"
   date: '2015-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:LkGwnXOMwfcC
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:b0M2c_1WBrUC
-  title: "Political depression? A big-data, multimethod investigation of Americans\u2019\
-    \ emotional response to the Trump presidency."
-  authors:
-  - A Simchon
-  - SC Guntuku
-  - R Simhon
-  - LH Ungar
-  - RR Hassin
-  - M Gilead
-  publisher: 'Journal of Experimental Psychology: General 149 (11), 2154, 2020'
-  date: '2020-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:b0M2c_1WBrUC
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
@@ -938,6 +938,20 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:7T2F9Uy0os0C
+  title: Understanding the expression of loneliness on Twitter across age groups and
+    genders
+  authors:
+  - A Andy
+  - G Sherman
+  - SC Guntuku
+  publisher: Plos one 17 (9), e0273636, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:7T2F9Uy0os0C
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 76_hrfUAAAAJ:5awf1xo2G04C
   title: Perceptually unimportant information reduction and Cosine similarity-based
     quality assessment of 3D-synthesized images
@@ -993,20 +1007,6 @@
   publisher: arXiv preprint arXiv:1606.06873, 2016
   date: '2016-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:Zph67rFs4hoC
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:7T2F9Uy0os0C
-  title: Understanding the expression of loneliness on Twitter across age groups and
-    genders
-  authors:
-  - A Andy
-  - G Sherman
-  - SC Guntuku
-  publisher: Plos one 17 (9), e0273636, 2022
-  date: '2022-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:7T2F9Uy0os0C
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
