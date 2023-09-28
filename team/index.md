@@ -20,6 +20,7 @@ Our lab members come from several schools at Penn: Engineering, Wharton, and Med
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
 {% include list.html data="members" component="portrait" filters="role: visit-student, group: " %}
 {% include list.html data="members" component="portrait" filters="role: project-manager, group: " %}
+{% include list.html data="members" component="portrait" filters="role: data-scientist, group: " %}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
