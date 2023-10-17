@@ -38,6 +38,10 @@ project-manager:
   icon: fas fa-clipboard-list
   description: Project Manager
 
+data-scientist:
+  icon: fas fa-clipboard-list
+  description: Data Scientist
+
 programmer:
   icon: fas fa-code
   description: Programmer
