@@ -2,17 +2,33 @@
 layout: default
 ---
 
-<!-- {% capture col1 %} -->
+{% capture col1 %}
 
-{% include portrait.html lookup=page.home %}
-
-<!-- <div>
-  {% for link in page.links %}
-    {% assign key = link[0] %}
-    {% assign value = link[1] %}
-    {% include button.html type=key link=value style="bare" %}
-  {% endfor %}
+<div class="portrait-wrapper">
+  <a href="{{ page.home }}" class="portrait" target="_blank" rel="noopener">
+    <img
+      src="{{ page.image | relative_url }}"
+      class="portrait-image"
+      loading="lazy"
+      {% include fallback.html %}
+    >
+    <span class="portrait-text">
+      {% if page.name %}
+        <span class="portrait-name">{{ page.name }}</span>
+      {% endif %}
+      {% if page.job %}
+        <span>{{ page.job }}</span>
+      {% endif %}
+      {% if page.affil %}
+        <span>{{ page.affil }}</span>
+      {% endif %}
+    </span>
+  </a>
 </div>
+
+{% if page.home %}
+  {% include button.html type="home-page" link=page.home style="bare" %}
+{% endif %}
 
 {% endcapture %}
 
@@ -20,31 +36,6 @@ layout: default
 
 {{ content }}
 
-{% assign aliases = page.aliases
-  | default: page.name
-  | default: page.title
-  | join: ","
-  | split: ","
-  | array_filter
-%} -->
+{% endcapture %}
 
-
-<!-- {% capture search -%}
-  research/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
-{%- endcapture %}
-
-<a href="{{ search | relative_url }}">
-  See {{ page.name | default: page.title }}'s papers on the Research page
-</a>
-
-{% capture search -%}
-  blog/?search={{ page.name }}
-{%- endcapture %}
-
-<a href="{{ search | relative_url }}">
-  See {{ page.name | default: page.title }}'s posts on the Blog page
-</a> -->
- 
-<!-- {% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %} -->
+{% include cols.html col1=col1 col2=col2 %}

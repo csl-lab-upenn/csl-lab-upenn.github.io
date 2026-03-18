@@ -2,6 +2,7 @@
 name: Leo Thorbecke
 image: images/LeoThorbecke.jpg
 role: project-manager
+group: alum
 links:
   email: leo.thorbecke@pennmedicine.upenn.edu
 ---

@@ -1,0 +1,12 @@
+# Ordered list of team member roles displayed on the team page.
+# To add or remove a section, simply add or remove the role key here.
+# Role keys must match those defined in _data/types.yaml.
+- pi
+- coi
+- postdoc
+- phd
+- masters
+- undergrad
+- visit-student
+- project-manager
+- data-scientist

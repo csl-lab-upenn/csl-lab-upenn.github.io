@@ -2,6 +2,7 @@
 name: Chunlu Li
 image: images/ChunluLi.jpg
 role: masters
+group: alum
 links:
   email: chunluli@seas.upenn.edu
 ---

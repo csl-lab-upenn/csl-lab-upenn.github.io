@@ -2,6 +2,7 @@
 name: Salvatore Giorgi
 image: images/SalvatoreGiorgi.jpg
 role: phd
+group: alum
 links:
   orcid: 0000-0001-7381-6295
   home-page: http://salvatoregiorgi.com/

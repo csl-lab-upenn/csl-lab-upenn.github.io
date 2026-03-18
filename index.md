@@ -3,81 +3,82 @@ title: CSL Lab | UPenn
 description: Computational Social Listening Lab at UPenn
 ---
 
-# Data Science for Health & Psychology
+# Using Data Science to Understand Human Health
+{:.center}
 
-We study individual- and community-level health behaviors across cultures and languages using natural language processing and machine learning methods with a focus on uncovering heterogeneity and disparities.
-
-{% include section.html %}
-
-## Highlights
-
-{% capture text %}
-
-We utilize machine learning, deep learning, and natural language processing methods to uncover insights about health attitudes, behaviors, and outcomes, with a particular focus on health disparities and mental health and wellbeing.
+We develop machine learning and natural language processing methods to measure health behaviors, disparities, and outcomes at scale — across cultures, languages, and communities.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Explore our research"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+%}
+{%
+  include button.html
+  link="team"
+  text="Meet the team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
+{:.center}
 
-{% endcapture %}
+{% include section.html %}
+
+## What We Do
+{:.center}
 
 {%
   include feature.html
   image="images/icon_online health.webp"
   link="research"
-  title="Our Research"
-  text=text
+  title="Research"
+  text="We apply NLP and machine learning to health data at population scale — uncovering patterns in mental health, vaccine attitudes, health disparities, and more from social media, clinical notes, and mobile sensing data."
 %}
-
-{% capture text %}
-
-Current project topics include global mental health, vaccine acceptance, and firearms safety. Priorities include digital mental health, cultural and racial heterogeneity in health behaviors and outcomes, and developing precision public health messaging.
-
-{%
-  include button.html
-  link="tools"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
 
 {%
   include feature.html
   image="images/icon_phone_image copy.jpg"
-  link="projects"
-  title="Our Projects"
+  link="tools"
+  title="Tools & Projects"
   flip=true
-  style="bare"
-  text=text
+  text="We build open datasets, models, and software used by researchers worldwide — from depression lexicons to digital phenotyping platforms to public health dashboards."
 %}
 
-{% capture text %}
+{% include section.html background="images/banner.jpg" dark=true %}
 
-Meet our dynamic, interdisciplinary team of investigators, postdocs, staff, and students - and learn how to join our team if you're interested!
+## Our Team
+{:.center}
+
+An interdisciplinary group of investigators, postdocs, and students from Penn Engineering, Wharton, and Medicine — united by the belief that data science can make healthcare more equitable and accessible.
+
+{% include team-collage.html %}
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Meet everyone"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
+{:.center}
 
-{% endcapture %}
+{% include section.html %}
+
+## Join Us
+{:.center}
+
+We have RA positions open for UPenn undergrad and graduate students interested in applying NLP and machine learning to health — with a focus on global mental health, vaccine acceptance, and firearms safety.
 
 {%
-  include feature.html
-  image="images/team_collage2.png"
-  link="team"
-  title="Our Team"
-  text=text
+  include button.html
+  link="team#join"
+  text="Learn more"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
 %}
+{:.center}

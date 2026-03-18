@@ -2,6 +2,7 @@
 name: Khushi Shelat
 image: images/KhushiShelat.png
 role: undergrad
+group: alum
 links:
   home-page: khushishleat.com
   email: kshelat@wharton.upenn.edu

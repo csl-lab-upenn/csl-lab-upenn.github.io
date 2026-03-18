@@ -12,15 +12,10 @@ Our lab members come from several schools at Penn: Engineering, Wharton, and Med
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi, group: " %}
-{% include list.html data="members" component="portrait" filters="role: coi, group: " %}
-{% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
-{% include list.html data="members" component="portrait" filters="role: phd, group: " %}
-{% include list.html data="members" component="portrait" filters="role: masters, group: " %}
-{% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
-{% include list.html data="members" component="portrait" filters="role: visit-student, group: " %}
-{% include list.html data="members" component="portrait" filters="role: project-manager, group: " %}
-{% include list.html data="members" component="portrait" filters="role: data-scientist, group: " %}
+{% for role in site.data.member_roles %}
+  {% capture role_filters %}role: {{ role }}, group: {% endcapture %}
+  {% include list.html data="members" component="portrait" filters=role_filters %}
+{% endfor %}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}

@@ -60,7 +60,3 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
-
-email: sharathg@cis.upenn.edu
-github: chandrasg
-twitter: sharathguntuku

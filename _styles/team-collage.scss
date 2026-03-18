@@ -1,0 +1,65 @@
+---
+---
+
+.team-collage {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 8px;
+  width: 100%;
+  border-radius: var(--rounded);
+  overflow: hidden;
+}
+
+.collage-tile {
+  position: relative;
+  aspect-ratio: 1;
+  overflow: hidden;
+  display: block;
+  border-radius: 4px;
+  text-decoration: none;
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
+    transition: transform 0.35s ease;
+    filter: grayscale(10%);
+  }
+
+  &:hover img {
+    transform: scale(1.06);
+    filter: grayscale(0%);
+  }
+
+  &:hover .collage-overlay {
+    opacity: 1;
+  }
+}
+
+.collage-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, #011F5Bdd 0%, #011F5B55 60%, transparent 100%);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 10px 8px;
+  opacity: 0;
+  transition: opacity 0.25s ease;
+}
+
+.collage-name {
+  color: #fff;
+  font-family: var(--heading);
+  font-size: 0.7rem;
+  font-weight: var(--semi-bold);
+  line-height: 1.2;
+}
+
+.collage-role {
+  color: rgba(255, 255, 255, 0.75);
+  font-family: var(--body);
+  font-size: 0.6rem;
+  margin-top: 2px;
+}
