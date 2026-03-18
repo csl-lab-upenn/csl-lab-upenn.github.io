@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Penn navy background circle for favicon clarity -->
+  <rect width="64" height="64" rx="8" fill="#011F5B"/>
+  <!-- Speech bubble -->
+  <path d="M8 10 Q8 6 12 6 L52 6 Q56 6 56 10 L56 38 Q56 42 52 42 L38 42 L32 50 L26 42 L12 42 Q8 42 8 38 Z" fill="white"/>
+  <!-- Waveform bars in Penn navy -->
+  <rect x="14" y="21" width="5" height="12" rx="2.5" fill="#011F5B"/>
+  <rect x="21" y="16" width="5" height="17" rx="2.5" fill="#011F5B"/>
+  <rect x="28" y="18" width="5" height="15" rx="2.5" fill="#011F5B"/>
+  <rect x="35" y="13" width="5" height="20" rx="2.5" fill="#011F5B"/>
+  <rect x="42" y="19" width="5" height="14" rx="2.5" fill="#011F5B" opacity="0.7"/>
+</svg>

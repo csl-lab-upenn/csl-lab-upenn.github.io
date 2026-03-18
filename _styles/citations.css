@@ -1,0 +1,30 @@
+.citation-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 6px;
+}
+
+.citation-link-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.78em;
+  font-weight: 600;
+  color: var(--primary);
+  text-decoration: none;
+  padding: 3px 8px;
+  border: 1.5px solid var(--primary);
+  border-radius: var(--rounded);
+  opacity: 0.85;
+  transition: opacity 0.15s, background 0.15s;
+}
+.citation-link-btn:hover {
+  opacity: 1;
+  background: var(--overlay);
+}
+.citation-link-btn i, .citation-link-btn svg {
+  font-size: 0.85em;
+}
+
+/*# sourceMappingURL=citations.css.map */

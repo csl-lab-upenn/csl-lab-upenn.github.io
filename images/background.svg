@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#0d2d6e"/>
+      <stop offset="100%" stop-color="#011F5B"/>
+    </radialGradient>
+  </defs>
+  <!-- Background fill -->
+  <rect width="1200" height="400" fill="url(#bg)"/>
+  <!-- Network connections (lines between nodes) -->
+  <g stroke="#3E7CB9" stroke-width="1" opacity="0.25">
+    <line x1="100" y1="80" x2="280" y2="150"/>
+    <line x1="280" y1="150" x2="450" y2="60"/>
+    <line x1="450" y1="60" x2="600" y2="200"/>
+    <line x1="600" y1="200" x2="780" y2="120"/>
+    <line x1="780" y1="120" x2="950" y2="280"/>
+    <line x1="950" y1="280" x2="1100" y2="180"/>
+    <line x1="280" y1="150" x2="600" y2="200"/>
+    <line x1="450" y1="60" x2="780" y2="120"/>
+    <line x1="100" y1="80" x2="450" y2="60"/>
+    <line x1="600" y1="200" x2="950" y2="280"/>
+    <line x1="150" y1="300" x2="280" y2="150"/>
+    <line x1="150" y1="300" x2="450" y2="320"/>
+    <line x1="450" y1="320" x2="600" y2="200"/>
+    <line x1="450" y1="320" x2="700" y2="350"/>
+    <line x1="700" y1="350" x2="950" y2="280"/>
+    <line x1="1050" y1="60" x2="780" y2="120"/>
+    <line x1="1050" y1="60" x2="1100" y2="180"/>
+    <line x1="320" y1="360" x2="150" y2="300"/>
+    <line x1="320" y1="360" x2="700" y2="350"/>
+    <line x1="850" y1="360" x2="700" y2="350"/>
+    <line x1="850" y1="360" x2="950" y2="280"/>
+    <line x1="850" y1="360" x2="1100" y2="180"/>
+  </g>
+  <!-- Network nodes -->
+  <g fill="#3E7CB9" opacity="0.5">
+    <circle cx="100" cy="80" r="5"/>
+    <circle cx="280" cy="150" r="7"/>
+    <circle cx="450" cy="60" r="5"/>
+    <circle cx="600" cy="200" r="8"/>
+    <circle cx="780" cy="120" r="6"/>
+    <circle cx="950" cy="280" r="7"/>
+    <circle cx="1100" cy="180" r="5"/>
+    <circle cx="150" cy="300" r="5"/>
+    <circle cx="450" cy="320" r="6"/>
+    <circle cx="700" cy="350" r="5"/>
+    <circle cx="1050" cy="60" r="4"/>
+    <circle cx="320" cy="360" r="4"/>
+    <circle cx="850" cy="360" r="5"/>
+  </g>
+  <!-- Brighter accent nodes -->
+  <g fill="#ffffff" opacity="0.4">
+    <circle cx="600" cy="200" r="4"/>
+    <circle cx="280" cy="150" r="3.5"/>
+    <circle cx="950" cy="280" r="3.5"/>
+  </g>
+</svg>
