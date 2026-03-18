@@ -9,6 +9,4 @@ links:
   twitter: lmgAboveFog
 ---
 
-Yuan Yuan is a Master's student pursuing dual degrees in Computer and Information Science (MSE) and Data Science (MSE) at the University of Pennsylvania. She holds a B.A. in Political Science and Mathematics from Vassar College.
-
-Her research focuses on natural language processing and large language models, with particular interests in LLM reasoning and personalization. At the CSL Lab, she applies computational methods to understand how language reflects and shapes social phenomena.
+Yuan Yuan is a Master's student at the University of Pennsylvania pursuing dual degrees in Computer and Information Science (MSE) and Data Science (MSE). He holds a B.A. in Political Science with a Mathematics minor from Vassar College. His research focuses on natural language processing and large language models, with interests in LLM reasoning, personalization, and multimodal systems. He has conducted research with faculty including Lyle Ungar, Harry Zhang, and Dan Roth, and interned at Meta as a software development engineer.

@@ -11,8 +11,4 @@ links:
   twitter: sharathguntuku
 ---
 
-Sharath is an Assistant Professor in the research-track in the Department of Computer and Information Science at the University of Pennsylvania. His research focuses on building predictive models for and uncovering insight into health outcomes and psychological states of individuals and communities. The goal of this research is to supplement clinical diagnoses and facilitate early and personalized interventions for improving treatments and well-being.
-
-His team develops computational models utilizing large-scale user-generated text, image, and mobile sensor data to answer questions pertaining to geospatial, cross-cultural, and temporal aspects of human behavior. His recent work investigates the manifestation of conditions such as loneliness, ADHD, stress, and depression on social media platforms and the role of heterogeneity in the digital behaviors of individuals across cultures.
-
-His work has been covered by the American Psychological Association, WIRED, Canadian Broadcasting Company, The Atlantic, US News, and other venues.
+Sharath Chandra Guntuku is an Associate Professor in the Department of Computer and Information Science at the University of Pennsylvania, where he directs the Computational Social Listening Lab. His research combines artificial intelligence, public health informatics, and data science to leverage digital sources — including social media, electronic health records, and mobile sensing data — to improve health outcomes at scale. He develops natural language processing and machine learning methods to predict health behaviors, assess mental health, and design culturally informed health interventions. His work spans global mental health, vaccine acceptance, health disparities, and firearms safety, and has been featured in WIRED, The Atlantic, the American Psychological Association, and other outlets.
