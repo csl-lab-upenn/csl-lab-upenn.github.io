@@ -8,8 +8,13 @@
     target="_blank"
     rel="noopener"
   >
+    {% if collab.image contains "://" %}
+      {% assign img_src = collab.image %}
+    {% else %}
+      {% assign img_src = collab.image | relative_url %}
+    {% endif %}
     <img
-      src="{{ collab.image | relative_url }}"
+      src="{{ img_src }}"
       class="portrait-image"
       loading="lazy"
       {% include fallback.html %}

@@ -3,6 +3,8 @@ name: Salvatore Giorgi
 image: images/SalvatoreGiorgi.jpg
 role: phd
 group: alum
+job: Data Scientist
+affil: National Institute on Drug Abuse (NIDA)
 links:
   orcid: 0000-0001-7381-6295
   home-page: http://salvatoregiorgi.com/

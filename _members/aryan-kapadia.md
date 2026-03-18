@@ -3,6 +3,8 @@ name: Aryan Kapadia
 image: images/Aryan RamchandraKapadia.png
 role: visit-student
 group: alum
+job: MS in Computer Science
+affil: University of Illinois Urbana-Champaign
 links:
   orcid: 0009-0007-9134-603X
   home-page: https://www.linkedin.com/in/aryan-kapadia-493716237/

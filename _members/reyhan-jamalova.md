@@ -2,6 +2,7 @@
 name: Reyhan Jamalova
 image: images/ReyhanJamalova.jpg
 role: undergrad
+job: Research Analyst
 links:
   email: jreyhan@seas.upenn.edu
   twitter: reyhan_jamalova

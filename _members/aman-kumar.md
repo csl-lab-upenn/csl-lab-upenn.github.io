@@ -3,6 +3,8 @@ name: Aman Kumar
 image: images/AmanKumar.jpg
 role: masters
 group: alum
+job: Data Scientist
+affil: C3.ai
 links:
   email: amankr7@seas.upenn.edu
   github: amkr-10

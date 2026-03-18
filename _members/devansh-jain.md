@@ -3,6 +3,8 @@ name: Devansh Jain
 image: images/DevanshJain.jpg
 role: visit-student
 group: alum
+job: Researcher
+affil: Letta
 links:
   orcid: 0000-0002-1461-6696
   home-page: https://devanshrj.github.io

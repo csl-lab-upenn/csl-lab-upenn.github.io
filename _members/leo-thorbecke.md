@@ -3,6 +3,8 @@ name: Leo Thorbecke
 image: images/LeoThorbecke.jpg
 role: project-manager
 group: alum
+job: MS in Public Policy
+affil: London School of Economics
 links:
   email: leo.thorbecke@pennmedicine.upenn.edu
 ---

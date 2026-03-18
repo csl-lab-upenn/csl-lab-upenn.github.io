@@ -23,14 +23,7 @@ Our lab members come from several schools at Penn: Engineering, Wharton, and Med
 # Join
 {:.center}
 
-We have multiple RA positions available for undergrad and graduate students already enrolled at UPenn on applying natural language and image processing to health, especially but not limited to – global mental health, vaccine acceptance, and firearms safety. If you’re interested send me an email with your CV and Academic Transcript at sharathg at cis dot upenn dot edu. 
-
-### Post Doctoral Researcher
-
-We have an opening for a postdoc position at the intersection of CS x Psychology. The position is for a 1 year term with the possibility to renew it. 
-
-{% include button.html link="https://bit.ly/penn_postdoc_css" text="Apply Now" %}
-{:.center}
+We have RA positions available for undergrad and graduate students enrolled at UPenn interested in applying NLP and machine learning to health — with a focus on global mental health, vaccine acceptance, and firearms safety. Send your CV and academic transcript to sharathg at cis dot upenn dot edu.
 
 {% include section.html %}
 

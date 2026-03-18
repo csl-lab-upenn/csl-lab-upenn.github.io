@@ -46,6 +46,23 @@
       <!-- {{ citation.id | default: "[no id info]" }} -->
     </div>
 
+    {% if citation.link or citation.pdf %}
+      <div class="citation-links">
+        {% if citation.link %}
+          <a href="{{ citation.link }}" class="citation-link-btn" target="_blank" rel="noopener">
+            {% include icon.html icon="fa-solid fa-arrow-up-right-from-square" %}
+            <span>View Paper</span>
+          </a>
+        {% endif %}
+        {% if citation.pdf %}
+          <a href="{{ citation.pdf }}" class="citation-link-btn" target="_blank" rel="noopener">
+            {% include icon.html icon="fa-solid fa-file-pdf" %}
+            <span>PDF</span>
+          </a>
+        {% endif %}
+      </div>
+    {% endif %}
+
     {% if include.style == "rich" %}
       {% if citation.description %}
         <div class="citation-description">

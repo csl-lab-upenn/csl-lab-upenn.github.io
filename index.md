@@ -32,7 +32,7 @@ We develop machine learning and natural language processing methods to measure h
 
 {%
   include feature.html
-  image="images/icon_online health.webp"
+  image="images/research-illustration.svg"
   link="research"
   title="Research"
   text="We apply NLP and machine learning to health data at population scale — uncovering patterns in mental health, vaccine attitudes, health disparities, and more from social media, clinical notes, and mobile sensing data."
@@ -40,7 +40,7 @@ We develop machine learning and natural language processing methods to measure h
 
 {%
   include feature.html
-  image="images/icon_phone_image copy.jpg"
+  image="images/tools-illustration.svg"
   link="tools"
   title="Tools & Projects"
   flip=true

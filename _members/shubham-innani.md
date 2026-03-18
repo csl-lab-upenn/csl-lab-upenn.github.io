@@ -3,6 +3,8 @@ name: Shubham Innani
 image: images/ShubhamInnani.jpg
 role: visit-student
 group: alum
+job: Research Analyst
+affil: Indiana University School of Medicine
 links:
   orcid: 0000-0003-3616-0308
   home-page: https://shubhaminnani.github.io/
