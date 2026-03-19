@@ -7,4 +7,4 @@ links:
   email: arnavjha@seas.upenn.edu
 ---
 
-Arnav is a Senior studying CIS and submatting in Data Science. His interests include Big Data, Machine Learning, sports, and playing instruments. 
+Arnav Jhaveri studied Computer and Information Science with a submatriculation in Data Science at the University of Pennsylvania. His interests include big data, machine learning, and sports analytics.

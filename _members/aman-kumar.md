@@ -11,4 +11,4 @@ links:
   twitter: ak_data_science
 ---
 
-Aman was a Master’s student at Penn Engineering who specializes in Data Science, with a focus on Machine Learning and Natural Language Processing. In his spare time, Aman enjoys hiking, playing chess, and listening to podcasts. His favorite AI web series is Westworld.
+Aman Kumar completed his Master’s degree in Data Science at Penn Engineering, with a focus on machine learning and natural language processing. He is now a Data Scientist at C3.ai.

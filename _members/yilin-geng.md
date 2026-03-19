@@ -12,4 +12,4 @@ links:
   twitter: YilinNLP
 ---
 
-Yilin is a veteran traveler who lived and studied in China, Australia, Singapore, Israel and United States for the past ten years, and a researcher interested in artificial intelligence that advances human’s physical and psychological well-being. His greatest passion outside of academia is street photography and whale watching.
+Yilin Geng completed his Master’s degree in Data Science at the University of Pennsylvania, where he conducted research on cross-cultural NLP — including comparisons of Chinese and American social media language, politeness strategies, and emoji semantics. He is the co-founder of LibrAI, an AI research startup. Outside of work, Yilin is an avid street photographer and traveler.

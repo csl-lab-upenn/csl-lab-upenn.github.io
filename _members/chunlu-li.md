@@ -9,4 +9,4 @@ links:
   email: chunluli@seas.upenn.edu
 ---
 
-Chunlu is a first-year master student in the data science program. She is interested in leveraging ML/NLP techniques to solve societal/psychological problems in real life.
+Chunlu Li completed her Master's degree in Data Science at the University of Pennsylvania, where she worked on leveraging ML and NLP techniques to address societal and psychological challenges. She is now a Data Engineer at Meta.

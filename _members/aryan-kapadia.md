@@ -13,6 +13,4 @@ links:
   twitter: aryan12424
 ---
 
-Aryan is a Visiting Associate at the Computational Social Listening Lab. He is a final year undergraduate student at BITS Pilani with majors in Computer Science and Economics.
-
-His work focuses on developing computational methods for precision public health communication in the context of vaccine acceptance in India. He is also involved in developing conversation bots for tutoring powered by GPT. 
+Aryan Kapadia was a Visiting Associate at the Computational Social Listening Lab during his undergraduate studies at BITS Pilani, where he majored in Computer Science and Economics. His work focused on developing computational methods for precision public health communication, including vaccine acceptance in India and conversational bots for tutoring powered by GPT. He is currently pursuing an MS in Computer Science at the University of Illinois Urbana-Champaign.

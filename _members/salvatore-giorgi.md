@@ -14,4 +14,4 @@ links:
   twitter: sal_giorgi
 ---
 
-Salvatore is a PhD student in Computer Science at the University of Pennsylvania working under H. Andrew Schwartz and Lyle Ungar. His primary research interest is community centered NLP: developing methods to measure relationships between individuals and their communities (e.g. US counties) using social media language. Salvatore is also a Data Scientist at the National Institute on Drug Abuse (NIDA/NIH) working on machine learning applications to substance use, recovery, and stigma towards people who use substances. 
+Salvatore Giorgi is a Data Scientist in the Technology and Translational Research Unit at the National Institute on Drug Abuse (NIDA/NIH), working under Dr. Brenda Curtis. He holds a PhD in Computer Science from the University of Pennsylvania, where he studied under H. Andrew Schwartz and Lyle Ungar. His research focuses on community-centered NLP — developing geo-spatial methods to measure relationships between individuals and their communities using social media language — with additional interests in machine learning applications to substance use, recovery, and stigma.
