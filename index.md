@@ -52,7 +52,7 @@ We develop machine learning and natural language processing methods to measure h
 ## Our Team
 {:.center}
 
-An interdisciplinary group of investigators, postdocs, and students from Penn Engineering, Wharton, and Medicine — united by the belief that data science can make healthcare more equitable and accessible.
+An interdisciplinary group of investigators, postdocs, and students from Penn Engineering, Annenberg, Wharton, and Medicine — united by the belief that data science can make healthcare more equitable and accessible.
 
 {% include team-collage.html %}
 
