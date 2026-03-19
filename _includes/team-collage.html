@@ -1,19 +1,22 @@
 {% assign active_members = site.members | where_exp: "m", "m.group != 'alum'" %}
 
 <div class="team-collage">
-  {% for member in active_members %}
-    <a href="{{ member.url | relative_url }}" class="collage-tile" data-tooltip="{{ member.name }}">
-      <img
-        src="{{ member.image | relative_url }}"
-        alt="{{ member.name }}"
-        loading="lazy"
-        {% include fallback.html %}
-      >
-      <span class="collage-overlay">
-        <span class="collage-name">{{ member.name }}</span>
-        {% assign type = site.data.types[member.role] %}
-        <span class="collage-role">{{ type.description }}</span>
-      </span>
-    </a>
+  {% for role in site.data.member_roles %}
+    {% assign role_members = active_members | where: "role", role %}
+    {% for member in role_members %}
+      <a href="{{ member.url | relative_url }}" class="collage-tile" data-tooltip="{{ member.name }}">
+        <img
+          src="{{ member.image | relative_url }}"
+          alt="{{ member.name }}"
+          loading="lazy"
+          {% include fallback.html %}
+        >
+        <span class="collage-overlay">
+          <span class="collage-name">{{ member.name }}</span>
+          {% assign type = site.data.types[member.role] %}
+          <span class="collage-role">{{ type.description }}</span>
+        </span>
+      </a>
+    {% endfor %}
   {% endfor %}
 </div>
