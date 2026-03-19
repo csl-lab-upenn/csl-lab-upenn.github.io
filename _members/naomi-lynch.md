@@ -1,6 +1,6 @@
 ---
 name: Naomi Lynch
-image: images/NaomiLynch.jpg
+image: images/NaomiLynch.png
 role: masters
 links:
   email: nlynch1@seas.upenn.edu
