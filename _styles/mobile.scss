@@ -1,0 +1,72 @@
+---
+---
+
+// ============================================================
+// Mobile-specific refinements
+// Supplements component-level responsive styles
+// ============================================================
+
+$phone: 500px;
+$tablet: 800px;
+
+// Increase touch target sizes on mobile
+@media (max-width: $phone) {
+  // Comfortable tap targets for explicit buttons/CTAs only
+  .button, button, [role="button"] {
+    min-height: 44px;
+  }
+
+  // Citation link buttons: touch-friendly sizing
+  .citation-link-btn {
+    display: inline-flex;
+    min-height: 36px;
+    padding: 6px 12px;
+  }
+
+  // Portrait grid: ensure images don't become too small
+  .portrait-image {
+    min-width: 80px;
+    min-height: 80px;
+  }
+
+  // Feature section: full-width images on mobile
+  .feature-image {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  // Prevent horizontal overflow globally
+  .page-content,
+  main,
+  article {
+    overflow-x: hidden;
+    max-width: 100vw;
+  }
+
+  // More breathing room for section headings
+  .section > h2:first-child,
+  .section > h3:first-child {
+    margin-top: 0;
+  }
+}
+
+// Tablet-specific adjustments
+@media (max-width: $tablet) {
+  // Slightly reduce section padding on tablets too
+  .section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+}
+
+// Improve scrollability of code blocks and tables on mobile
+@media (max-width: $phone) {
+  pre, .highlight {
+    font-size: 0.8rem;
+    border-radius: 6px;
+  }
+
+  table {
+    font-size: 0.85rem;
+  }
+}

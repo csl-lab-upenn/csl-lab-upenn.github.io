@@ -37,3 +37,10 @@ main > section:nth-of-type(odd) {
 main > section:nth-of-type(even) {
   background: var(--background-alt);
 }
+
+@media (max-width: 500px) {
+  section {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+}
