@@ -26,9 +26,9 @@
   --body: "Inter", sans-serif;
   --code: "Roboto Mono", monospace;
   --medium: 1rem;
-  --large: 1.2rem;
-  --xl: 1.5rem;
-  --xxl: 1.85rem;
+  --large: clamp(1.05rem, 2.5vw, 1.2rem);
+  --xl: clamp(1.2rem, 3.5vw, 1.5rem);
+  --xxl: clamp(1.4rem, 5vw, 1.85rem);
   --thin: 300;
   --regular: 400;
   --semi-bold: 600;

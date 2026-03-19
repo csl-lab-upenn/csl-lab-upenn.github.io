@@ -20,4 +20,11 @@ footer .icon {
   font-size: var(--xl);
 }
 
+@media (max-width: 500px) {
+  footer {
+    padding: 20px;
+    gap: 12px;
+  }
+}
+
 /*# sourceMappingURL=footer.css.map */

@@ -27,4 +27,12 @@
   font-size: 0.85em;
 }
 
+@media (max-width: 400px) {
+  .citation-links {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+  }
+}
+
 /*# sourceMappingURL=citations.css.map */
