@@ -1,7 +1,7 @@
 ---
 name: Arnav Jhaveri
 image: images/ArnavJhaveri.png
-role: undergrad
+role: masters
 group: alum
 links:
   email: arnavjha@seas.upenn.edu

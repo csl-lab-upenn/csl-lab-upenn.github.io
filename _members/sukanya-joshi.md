@@ -3,8 +3,8 @@ name: Sukanya Joshi
 image: images/SukanyaJoshi.png
 role: masters
 group: alum
-job: ML/AI Consultant
-affil: Snowflake
+job: Data Scientist
+affil: H2O.ai
 links:
   home-page: https://www.linkedin.com/in/sukanyajoshi/
   email: sukanyaj@upenn.edu

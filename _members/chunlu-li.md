@@ -3,8 +3,8 @@ name: Chunlu Li
 image: images/ChunluLi.jpg
 role: masters
 group: alum
-job: Data Engineer
-affil: Meta
+job: Data Scientist
+affil: Capital One
 links:
   email: chunluli@seas.upenn.edu
 ---

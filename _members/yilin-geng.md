@@ -3,8 +3,8 @@ name: Yilin Geng
 image: images/YilinGeng.jpg
 role: masters
 group: alum
-job: Co-founder
-affil: LibrAI
+job: PhD Student
+affil: Hebrew University
 links:
   orcid: 0000-0002-1461-6696
   email: link10@alumni.upenn.edu
