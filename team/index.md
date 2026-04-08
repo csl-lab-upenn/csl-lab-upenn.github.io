@@ -29,9 +29,28 @@ We have RA positions available for undergrad and graduate students enrolled at U
 
 # Alumni
 {:.center}
-These are past lab members who have moved on to other school programs, new jobs, or elsewhere.
+Past lab members who have gone on to faculty positions, research roles, industry, and further graduate study.
 
-{% include list.html data="members" component="portrait" filters="group: alum" %}
+## PhD & Postdoctoral Researchers
+{:.center}
+
+{% include list.html data="members" component="portrait" filters="group: alum, role: phd" style="alum" %}
+{% include list.html data="members" component="portrait" filters="group: alum, role: postdoc" style="alum" %}
+{:.center}
+
+## Masters Students
+{:.center}
+
+{% include list.html data="members" component="portrait" filters="group: alum, role: masters" style="alum" %}
+{:.center}
+
+## Visiting Researchers & Others
+{:.center}
+
+{% include list.html data="members" component="portrait" filters="group: alum, role: data-scientist" style="alum" %}
+{% include list.html data="members" component="portrait" filters="group: alum, role: visit-student" style="alum" %}
+{% include list.html data="members" component="portrait" filters="group: alum, role: undergrad" style="alum" %}
+{% include list.html data="members" component="portrait" filters="group: alum, role: project-manager" style="alum" %}
 {:.center}
 
 {% include section.html %}
@@ -64,4 +83,4 @@ Our work is made possible by funding from several organizations.
 # Current Collaborators
 {:.center}
 
-{% include list.html data="collabs" component="portrait-collab" %}
+{% include list.html data="collabs" component="portrait-collab" style="small" %}

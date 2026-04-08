@@ -42,6 +42,20 @@
   display: none;
 }
 
+// Alum style: compact image, hide lab role label (show current position only)
+.portrait[data-style="alum"] .portrait-image {
+  width: 90px;
+}
+
+.portrait[data-style="alum"] .portrait-role {
+  display: none;
+}
+
+// Collab style: smaller images
+.portrait[data-style="small"] .portrait-image {
+  width: 90px;
+}
+
 .portrait-text {
   display: flex;
   flex-direction: column;
