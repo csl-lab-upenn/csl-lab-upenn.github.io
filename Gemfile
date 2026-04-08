@@ -4,6 +4,9 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.3"
 gem "webrick", "~> 1.7"
 
+# security: pin addressable >= 2.8.7 (CVE-2026-35611 ReDoS fix)
+gem "addressable", ">= 2.8.7"
+
 # plugins
 group :jekyll_plugins do
   gem "jekyll-spaceship"
