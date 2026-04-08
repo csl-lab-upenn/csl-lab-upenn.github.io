@@ -44,7 +44,7 @@ Past lab members who have gone on to faculty positions, research roles, industry
 {% include list.html data="members" component="portrait" filters="group: alum, role: masters" style="alum" %}
 {:.center}
 
-## Visiting Researchers & Others
+## Undergrads, Visitors, and Staff
 {:.center}
 
 {% include list.html data="members" component="portrait" filters="group: alum, role: data-scientist" style="alum" %}
