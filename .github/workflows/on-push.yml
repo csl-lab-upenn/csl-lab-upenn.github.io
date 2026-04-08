@@ -18,9 +18,9 @@ jobs:
     # skip first run because nothing enabled or setup yet
     if: github.run_number != 1
     uses: ./.github/workflows/update-citations.yaml
-    continue-on-error: true
 
   build-site:
     needs: update-citations
-    if: always()
+    # run even if update-citations fails or is skipped
+    if: ${{ always() }}
     uses: ./.github/workflows/build-site.yaml
