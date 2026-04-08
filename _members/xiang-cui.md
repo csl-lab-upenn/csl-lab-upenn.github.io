@@ -1,5 +1,6 @@
 ---
 name: Xiang Cui
+image: images/XiangCui.jpg
 role: masters
 group: alum
 ---

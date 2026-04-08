@@ -1,5 +1,6 @@
 ---
 name: Jai Thirani
+image: images/JaiThirani.jpg
 role: undergrad
 group: alum
 job: Co-Founder & CEO
