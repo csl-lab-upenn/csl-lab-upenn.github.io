@@ -39,6 +39,18 @@
   display: none;
 }
 
+.portrait[data-style=alum] .portrait-image {
+  width: 90px;
+}
+
+.portrait[data-style=alum] .portrait-role {
+  display: none;
+}
+
+.portrait[data-style=small] .portrait-image {
+  width: 90px;
+}
+
 .portrait-text {
   display: flex;
   flex-direction: column;
