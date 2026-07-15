@@ -1,6 +1,6 @@
 ---
 name: Sukanya Joshi
-image: images/SukanyaJoshi.png
+image: images/SukanyaJoshi.jpg
 role: masters
 group: alum
 job: Data Scientist

@@ -1,12 +1,12 @@
 ---
 ---
 
-@import "palettes";
-@import "theme";
-@import "mixins";
+@use "palettes" as *;
+@use "theme" as *;
+@use "mixins" as *;
 
 a {
-  color: $accent;
+  color: var(--accent);
   transition: color $fast;
   overflow-wrap: break-word;
 }
@@ -45,8 +45,8 @@ a:hover {
     margin: 10px;
     padding: 5px 10px;
     border-radius: $rounded;
-    background: $accent;
-    color: $white;
+    background: var(--accent);
+    color: var(--background);
 
     &:hover {
       background: $gray-500;

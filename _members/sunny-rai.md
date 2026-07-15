@@ -4,7 +4,7 @@ image: images/SunnyRai.jpeg
 role: postdoc
 links:
   orcid: 0000-0002-0677-3747
-  home-page: raisunny.com
+  home-page: https://raisunny.com
   email: sunnyrai@seas.upenn.edu
   google-scholar: C-gi0v8AAAAJ&hl=en
   twitter: sny_rai

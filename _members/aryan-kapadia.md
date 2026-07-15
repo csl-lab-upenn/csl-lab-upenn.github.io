@@ -1,6 +1,6 @@
 ---
 name: Aryan Kapadia
-image: images/Aryan RamchandraKapadia.png
+image: images/AryanRamchandraKapadia.jpg
 role: visit-student
 group: alum
 job: MS in Computer Science

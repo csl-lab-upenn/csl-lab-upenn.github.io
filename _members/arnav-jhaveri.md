@@ -1,6 +1,6 @@
 ---
 name: Arnav Jhaveri
-image: images/ArnavJhaveri.png
+image: images/ArnavJhaveri.jpg
 role: masters
 group: alum
 links:

@@ -4,7 +4,7 @@
     data-flip
   {% endif %}
 >
-  <a href="{{ include.link | relative_url }}" class="feature-image">
+  <a href="{{ include.link | relative_url }}" class="feature-image" {% if include.title %}aria-label="{{ include.title }}"{% endif %}>
     <img
       src="{{ include.image | relative_url }}"
       loading="lazy"

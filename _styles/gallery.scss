@@ -1,9 +1,9 @@
 ---
 ---
 
-@import "palettes";
-@import "theme";
-@import "mixins";
+@use "palettes" as *;
+@use "theme" as *;
+@use "mixins" as *;
 
 .gallery {
   display: grid;

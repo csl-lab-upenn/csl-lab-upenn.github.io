@@ -1,5 +1,4 @@
 ---
-title: CSL Lab | UPenn
 description: Computational Social Listening Lab at UPenn
 ---
 
