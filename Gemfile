@@ -3,6 +3,8 @@ source "https://rubygems.org"
 # jekyll
 gem "jekyll", "~> 4.3"
 gem "webrick", "~> 1.7"
+# stdlib gem no longer bundled by default from Ruby 3.5 (needed by jekyll-spaceship)
+gem "ostruct"
 
 # plugins
 group :jekyll_plugins do
