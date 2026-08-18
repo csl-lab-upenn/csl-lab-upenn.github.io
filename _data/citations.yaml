@@ -100,7 +100,8 @@
   plugin: google-scholar.py
   file: google-scholar.yaml
 - id: 76_hrfUAAAAJ:KxtntwgDAa4C
-  title: Tracking mental health and symptom mentions on Twitter during COVID-19
+  title: 'Tracking Mental Health and Symptom Mentions on Twitter During COVID-19:
+    Guntuku et al.'
   authors:
   - SC Guntuku
   - G Sherman
@@ -111,21 +112,6 @@
   publisher: Journal of general internal medicine 35 (9), 2798-2800, 2020
   date: '2020-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:KxtntwgDAa4C
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:rO6llkc54NcC
-  title: What twitter profile and posted images reveal about depression and anxiety
-  authors:
-  - SC Guntuku
-  - D Preotiuc-Pietro
-  - JC Eichstaedt
-  - LH Ungar
-  publisher: "Proceedings of the international AAAI conference on web and social media\
-    \ 13 \u2026, 2019"
-  date: '2019-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:rO6llkc54NcC
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
@@ -143,6 +129,21 @@
   publisher: Journal of Adolescent Health 69 (2), 234-241, 2021
   date: '2021-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:Mojj43d5GZwC
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:rO6llkc54NcC
+  title: What twitter profile and posted images reveal about depression and anxiety
+  authors:
+  - SC Guntuku
+  - D Preotiuc-Pietro
+  - JC Eichstaedt
+  - LH Ungar
+  publisher: "Proceedings of the international AAAI conference on web and social media\
+    \ 13 \u2026, 2019"
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:rO6llkc54NcC
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
@@ -228,22 +229,6 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:_xSYboBqXhAC
-  title: Examining the phenomenon of quarter-life crisis through artificial intelligence
-    and the language of twitter
-  authors:
-  - S Agarwal
-  - SC Guntuku
-  - OC Robinson
-  - A Dunn
-  - LH Ungar
-  publisher: Frontiers in psychology 11, 341, 2020
-  date: '2020-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:_xSYboBqXhAC
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: 76_hrfUAAAAJ:4OULZ7Gr8RgC
   title: 'Facebook versus Twitter: Differences in self-disclosure and trait prediction'
   authors:
@@ -258,9 +243,25 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:_xSYboBqXhAC
+  title: Examining the phenomenon of quarter-life crisis through artificial intelligence
+    and the language of twitter
+  authors:
+  - S Agarwal
+  - SC Guntuku
+  - OC Robinson
+  - A Dunn
+  - LH Ungar
+  publisher: Frontiers in Psychology 11, 341, 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:_xSYboBqXhAC
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 76_hrfUAAAAJ:abG-DnoFyZgC
-  title: 'Public priorities and concerns regarding COVID-19 in an online discussion
-    forum: longitudinal topic modeling'
+  title: 'Public Priorities and Concerns Regarding COVID-19 in an Online Discussion
+    Forum: Longitudinal Topic Modeling: Stokes et al.'
   authors:
   - DC Stokes
   - A Andy
@@ -324,22 +325,6 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:mVmsd5A6BfQC
-  title: Studying Personality through the Content of Posted and Liked Images on Twitter
-  authors:
-  - SC Guntuku
-  - W Lin
-  - J Carpenter
-  - WK Ng
-  - LH Ungar
-  - "D Preo\u0163iuc-Pietro"
-  publisher: ACM Web Science, 2017
-  date: '2017-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:mVmsd5A6BfQC
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: 76_hrfUAAAAJ:VL0QpB8kHFEC
   title: 'Twitter corpus of the# blacklivesmatter movement and counter protests: 2013
     to 2021'
@@ -358,6 +343,22 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:mVmsd5A6BfQC
+  title: Studying Personality through the Content of Posted and Liked Images on Twitter
+  authors:
+  - SC Guntuku
+  - W Lin
+  - J Carpenter
+  - WK Ng
+  - LH Ungar
+  - "D Preo\u0163iuc-Pietro"
+  publisher: ACM Web Science, 2017
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:mVmsd5A6BfQC
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 76_hrfUAAAAJ:_kc_bZDykSQC
   title: Latent factor representations for cold-start video recommendation
   authors:
@@ -367,6 +368,24 @@
     2016
   date: '2016-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:_kc_bZDykSQC
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:KUbvn5osdkgC
+  title: Key language markers of depression on social media depend on race
+  authors:
+  - S Rai
+  - EC Stade
+  - S Giorgi
+  - A Francisco
+  - LH Ungar
+  - B Curtis
+  - SC Guntuku
+  publisher: Proceedings of the National Academy of Sciences 121 (14), e2319837121,
+    2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:KUbvn5osdkgC
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
@@ -388,17 +407,18 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:HE397vMXCloC
-  title: Twitter discourse reveals geographical and temporal variation in concerns
-    about COVID-19 vaccines in the United States
+- id: 76_hrfUAAAAJ:r0BpntZqJG4C
+  title: Cross-platform and cross-interaction study of user personality based on images
+    on Twitter and Flickr
   authors:
+  - ZR Samani
   - SC Guntuku
-  - AM Buttenheim
-  - G Sherman
-  - RM Merchant
-  publisher: Vaccine 39 (30), 4034-4038, 2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:HE397vMXCloC
+  - ME Moghaddam
+  - "D Preo\u0163iuc-Pietro"
+  - LH Ungar
+  publisher: PloS one 13 (7), e0198660, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:r0BpntZqJG4C
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
@@ -420,36 +440,35 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:r0BpntZqJG4C
-  title: Cross-platform and cross-interaction study of user personality based on images
-    on Twitter and Flickr
+- id: 76_hrfUAAAAJ:HE397vMXCloC
+  title: Twitter discourse reveals geographical and temporal variation in concerns
+    about COVID-19 vaccines in the United States
   authors:
-  - ZR Samani
   - SC Guntuku
-  - ME Moghaddam
-  - "D Preo\u0163iuc-Pietro"
-  - LH Ungar
-  publisher: PloS one 13 (7), e0198660, 2018
-  date: '2018-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:r0BpntZqJG4C
+  - AM Buttenheim
+  - G Sherman
+  - RM Merchant
+  publisher: Vaccine 39 (30), 4034-4038, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:HE397vMXCloC
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:KUbvn5osdkgC
-  title: Key language markers of depression on social media depend on race
+- id: 76_hrfUAAAAJ:J-pR_7NvFogC
+  title: Detecting Covid-19 and Community Acquired Pneumonia Using Chest CT Scan Images
+    With Deep Learning
   authors:
-  - S Rai
-  - EC Stade
-  - S Giorgi
-  - A Francisco
-  - LH Ungar
-  - B Curtis
-  - SC Guntuku
-  publisher: Proceedings of the National Academy of Sciences 121 (14), e2319837121,
-    2024
-  date: '2024-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:KUbvn5osdkgC
+  - S Chaudhary
+  - S Sadbhawna
+  - V Jakhetiya
+  - BN Subudhi
+  - U Baid
+  - '...'
+  publisher: "IEEE International Conference on Acoustics, Speech and Signal Processing\
+    \ \u2026, 2021"
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:J-pR_7NvFogC
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
@@ -481,24 +500,6 @@
   publisher: IEEE Transactions on Multimedia, 2016
   date: '2016-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:8k81kl-MbHgC
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:J-pR_7NvFogC
-  title: Detecting Covid-19 and Community Acquired Pneumonia Using Chest CT Scan Images
-    With Deep Learning
-  authors:
-  - S Chaudhary
-  - S Sadbhawna
-  - V Jakhetiya
-  - BN Subudhi
-  - U Baid
-  - '...'
-  publisher: "IEEE International Conference on Acoustics, Speech and Signal Processing\
-    \ \u2026, 2021"
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:J-pR_7NvFogC
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
@@ -535,19 +536,33 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:e5wmG9Sq2KIC
-  title: 'Measuring individual video QoE: A survey, and proposal for future directions
-    using social media'
+- id: 76_hrfUAAAAJ:738O_yMBCRsC
+  title: Understanding weekly COVID-19 concerns through dynamic content-specific LDA
+    topic modeling
   authors:
-  - Y Zhu
+  - M Zamani
+  - HA Schwartz
+  - J Eichstaedt
   - SC Guntuku
-  - W Lin
-  - G Ghinea
-  - JA Redi
-  publisher: "ACM Transactions on Multimedia Computing, Communications, and Applications\
-    \ \u2026, 2018"
-  date: '2018-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:e5wmG9Sq2KIC
+  - AV Ganesan
+  - '...'
+  publisher: "Proceedings of the fourth workshop on natural language processing and\
+    \ \u2026, 2020"
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:738O_yMBCRsC
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:WF5omc3nYNoC
+  title: Personality modeling based image recommendation
+  authors:
+  - SC Guntuku
+  - S Roy
+  - L Weisi
+  publisher: International conference on multimedia modeling, 171-182, 2015
+  date: '2015-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:WF5omc3nYNoC
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
@@ -568,33 +583,19 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:WF5omc3nYNoC
-  title: Personality modeling based image recommendation
+- id: 76_hrfUAAAAJ:e5wmG9Sq2KIC
+  title: 'Measuring individual video QoE: A survey, and proposal for future directions
+    using social media'
   authors:
+  - Y Zhu
   - SC Guntuku
-  - S Roy
-  - L Weisi
-  publisher: International conference on multimedia modeling, 171-182, 2015
-  date: '2015-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:WF5omc3nYNoC
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:738O_yMBCRsC
-  title: Understanding weekly COVID-19 concerns through dynamic content-specific LDA
-    topic modeling
-  authors:
-  - M Zamani
-  - HA Schwartz
-  - J Eichstaedt
-  - SC Guntuku
-  - AV Ganesan
-  - '...'
-  publisher: "Proceedings of the fourth workshop on natural language processing and\
-    \ \u2026, 2020"
-  date: '2020-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:738O_yMBCRsC
+  - W Lin
+  - G Ghinea
+  - JA Redi
+  publisher: "ACM Transactions on Multimedia Computing, Communications, and Applications\
+    \ \u2026, 2018"
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:e5wmG9Sq2KIC
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
@@ -634,6 +635,20 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:YsMSGLbcyi4C
+  title: Support vector regression based flow stress prediction in austenitic stainless
+    steel 304
+  authors:
+  - RK Desu
+  - SC Guntuku
+  - AK Gupta
+  publisher: Procedia Materials Science 6, 368-375, 2014
+  date: '2014-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:YsMSGLbcyi4C
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 76_hrfUAAAAJ:hqOjcs7Dif8C
   title: 'Modelling human factors in perceptual multimedia quality: On the role of
     personality and culture'
@@ -647,20 +662,6 @@
     2015
   date: '2015-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:hqOjcs7Dif8C
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:YsMSGLbcyi4C
-  title: Support vector regression based flow stress prediction in austenitic stainless
-    steel 304
-  authors:
-  - RK Desu
-  - SC Guntuku
-  - AK Gupta
-  publisher: Procedia Materials Science 6, 368-375, 2014
-  date: '2014-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:YsMSGLbcyi4C
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
@@ -730,6 +731,22 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:ZHo1McVdvXMC
+  title: Exploring (dis-) similarities in emoji-emotion association on twitter and
+    weibo
+  authors:
+  - M Li
+  - S Guntuku
+  - V Jakhetiya
+  - L Ungar
+  publisher: Companion proceedings of the 2019 world wide web conference, 461-467,
+    2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:ZHo1McVdvXMC
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 76_hrfUAAAAJ:L8Ckcad2t8MC
   title: Just noticeable difference for natural images using RMS contrast and feed-back
     mechanism
@@ -746,18 +763,21 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:ZHo1McVdvXMC
-  title: Exploring (dis-) similarities in emoji-emotion association on twitter and
-    weibo
+- id: 76_hrfUAAAAJ:_FM0Bhl9EiAC
+  title: 'Head versus heart: social media reveals differential language of loneliness
+    from depression'
   authors:
-  - M Li
-  - S Guntuku
-  - V Jakhetiya
-  - L Ungar
-  publisher: Companion proceedings of the 2019 world wide web conference, 461-467,
-    2019
-  date: '2019-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:ZHo1McVdvXMC
+  - T Liu
+  - LH Ungar
+  - B Curtis
+  - G Sherman
+  - K Yadeta
+  - L Tay
+  - JC Eichstaedt
+  - '...'
+  publisher: Npj Mental Health Research 1 (1), 16, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:_FM0Bhl9EiAC
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
@@ -795,21 +815,19 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:_FM0Bhl9EiAC
-  title: 'Head versus heart: social media reveals differential language of loneliness
-    from depression'
+- id: 76_hrfUAAAAJ:-_dYPAW6P2MC
+  title: Detecting Symptoms of Depression on Reddit
   authors:
   - T Liu
-  - LH Ungar
+  - D Jain
+  - SR Rapole
   - B Curtis
-  - G Sherman
-  - K Yadeta
-  - L Tay
   - JC Eichstaedt
-  - '...'
-  publisher: Npj Mental Health Research 1 (1), 16, 2022
-  date: '2022-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:_FM0Bhl9EiAC
+  - LH Ungar
+  - SC Guntuku
+  publisher: Proceedings of the 15th ACM Web Science Conference, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:-_dYPAW6P2MC
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
@@ -831,6 +849,19 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:Dip1O2bNi0gC
+  title: 'Herd behavior: Investigating peer influence in llm-based multi-agent systems'
+  authors:
+  - YM Cho
+  - SC Guntuku
+  - L Ungar
+  publisher: arXiv preprint arXiv:2505.21588, 2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:Dip1O2bNi0gC
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 76_hrfUAAAAJ:TIZ-Mc8IlK0C
   title: Building knowledge-guided lexica to model cultural variation
   authors:
@@ -844,6 +875,77 @@
     \ the \u2026, 2024"
   date: '2024-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:TIZ-Mc8IlK0C
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:35r97b3x0nAC
+  title: Reddit language indicates changes associated with diet, physical activity,
+    substance use, and smoking during COVID-19
+  authors:
+  - K Wanchoo
+  - M Abrams
+  - RM Merchant
+  - L Ungar
+  - SC Guntuku
+  publisher: Plos one 18 (2), e0280337, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:35r97b3x0nAC
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:86PQX7AUzd4C
+  title: 'Beyond the strongest llm: Multi-turn multi-agent orchestration vs. single
+    llms on benchmarks'
+  authors:
+  - AX Tian
+  - R Zhang
+  - J Tang
+  - YM Cho
+  - X Li
+  - Q Yi
+  - J Wang
+  - Z Zhang
+  - D Qi
+  - Z Li
+  - '...'
+  publisher: arXiv preprint arXiv:2509.23537, 2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:86PQX7AUzd4C
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:olpn-zPbct0C
+  title: 'Partisan differences in Twitter language among US legislators during the
+    COVID-19 pandemic: cross-sectional study'
+  authors:
+  - SC Guntuku
+  - J Purtle
+  - ZF Meisel
+  - RM Merchant
+  - A Agarwal
+  publisher: Journal of medical Internet research 23 (6), e27300, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:olpn-zPbct0C
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:uWQEDVKXjbEC
+  title: "The rural\u2013urban stress divide: Obtaining geographical insights through\
+    \ Twitter"
+  authors:
+  - K Jaidka
+  - SC Guntuku
+  - JH Lee
+  - Z Luo
+  - A Buffone
+  - LH Ungar
+  publisher: Computers in Human Behavior 114, 106544, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:uWQEDVKXjbEC
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
@@ -866,51 +968,19 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:35r97b3x0nAC
-  title: Reddit language indicates changes associated with diet, physical activity,
-    substance use, and smoking during COVID-19
-  authors:
-  - K Wanchoo
-  - M Abrams
-  - RM Merchant
-  - L Ungar
-  - SC Guntuku
-  publisher: Plos one 18 (2), e0280337, 2023
-  date: '2023-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:35r97b3x0nAC
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:-_dYPAW6P2MC
-  title: Detecting Symptoms of Depression on Reddit
-  authors:
-  - T Liu
-  - D Jain
-  - SR Rapole
-  - B Curtis
-  - JC Eichstaedt
-  - LH Ungar
-  - SC Guntuku
-  publisher: Proceedings of the 15th ACM Web Science Conference, 2023
-  date: '2023-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:-_dYPAW6P2MC
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:olpn-zPbct0C
-  title: 'Partisan differences in twitter language among US legislators during the
-    COVID-19 pandemic: Cross-sectional study'
+- id: 76_hrfUAAAAJ:LkGwnXOMwfcC
+  title: 'The CP-QAE-I: A video dataset for exploring the effect of personality and
+    culture on perceived quality and affect in multimedia'
   authors:
   - SC Guntuku
-  - J Purtle
-  - ZF Meisel
-  - RM Merchant
-  - A Agarwal
-  publisher: Journal of medical Internet research 23 (6), e27300, 2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:olpn-zPbct0C
+  - MJ Scott
+  - H Yang
+  - G Ghinea
+  - W Lin
+  publisher: "2015 seventh international workshop on quality of multimedia experience\
+    \ \u2026, 2015"
+  date: '2015-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:LkGwnXOMwfcC
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
@@ -932,23 +1002,6 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:LkGwnXOMwfcC
-  title: 'The CP-QAE-I: A video dataset for exploring the effect of personality and
-    culture on perceived quality and affect in multimedia'
-  authors:
-  - SC Guntuku
-  - MJ Scott
-  - H Yang
-  - G Ghinea
-  - W Lin
-  publisher: "2015 seventh international workshop on quality of multimedia experience\
-    \ \u2026, 2015"
-  date: '2015-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:LkGwnXOMwfcC
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: 76_hrfUAAAAJ:kNdYIx-mwKoC
   title: Understanding Deep Representations Learned in Modeling User `Likes'
   authors:
@@ -960,36 +1013,6 @@
   publisher: IEEE Transactions on Image Processing, 2016
   date: '2016-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:kNdYIx-mwKoC
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:uWQEDVKXjbEC
-  title: "The rural\u2013urban stress divide: Obtaining geographical insights through\
-    \ Twitter"
-  authors:
-  - K Jaidka
-  - SC Guntuku
-  - JH Lee
-  - Z Luo
-  - A Buffone
-  - LH Ungar
-  publisher: Computers in Human Behavior 114, 106544, 2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:uWQEDVKXjbEC
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:Dip1O2bNi0gC
-  title: 'Herd behavior: Investigating peer influence in llm-based multi-agent systems'
-  authors:
-  - YM Cho
-  - SC Guntuku
-  - L Ungar
-  publisher: arXiv preprint arXiv:2505.21588, 2025
-  date: '2025-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:Dip1O2bNi0gC
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
@@ -1066,6 +1089,25 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:LI9QrySNdTsC
+  title: Uncertainty-aware crime prediction with spatial temporal multivariate graph
+    neural networks
+  authors:
+  - Z Wang
+  - X Ma
+  - H Yang
+  - W Lyu
+  - Y Liu
+  - P Sun
+  - SC Guntuku
+  publisher: "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech\
+    \ and \u2026, 2025"
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:LI9QrySNdTsC
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 76_hrfUAAAAJ:e_rmSamDkqQC
   title: 'Social norms in cinema: A cross-cultural analysis of shame, pride and prejudice'
   authors:
@@ -1079,6 +1121,23 @@
     \ of \u2026, 2025"
   date: '2025-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:e_rmSamDkqQC
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:gsN89kCJA0AC
+  title: Detecting and monitoring concerns against HPV vaccination on social media
+    using large language models
+  authors:
+  - S Rai
+  - M Kornides
+  - J Morgan
+  - A Kumar
+  - J Cappella
+  - SC Guntuku
+  publisher: Scientific Reports 14 (1), 14362, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:gsN89kCJA0AC
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
@@ -1114,64 +1173,6 @@
   publisher: IEEE Transactions on Industrial Informatics 18 (11), 7780-7789, 2021
   date: '2021-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:dTyEYWd-f8wC
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:86PQX7AUzd4C
-  title: 'Beyond the Strongest LLM: Multi-Turn Multi-Agent Orchestration vs. Single
-    LLMs on Benchmarks'
-  authors:
-  - AX Tian
-  - R Zhang
-  - J Tang
-  - YM Cho
-  - X Li
-  - Q Yi
-  - J Wang
-  - Z Zhang
-  - D Qi
-  - Z Li
-  - '...'
-  publisher: arXiv preprint arXiv:2509.23537, 2025
-  date: '2025-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:86PQX7AUzd4C
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:LI9QrySNdTsC
-  title: Uncertainty-aware crime prediction with spatial temporal multivariate graph
-    neural networks
-  authors:
-  - Z Wang
-  - X Ma
-  - H Yang
-  - W Lyu
-  - Y Liu
-  - P Sun
-  - SC Guntuku
-  publisher: "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech\
-    \ and \u2026, 2025"
-  date: '2025-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:LI9QrySNdTsC
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:gsN89kCJA0AC
-  title: Detecting and monitoring concerns against HPV vaccination on social media
-    using large language models
-  authors:
-  - S Rai
-  - M Kornides
-  - J Morgan
-  - A Kumar
-  - J Cappella
-  - SC Guntuku
-  publisher: Scientific Reports 14 (1), 14362, 2024
-  date: '2024-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:gsN89kCJA0AC
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
@@ -1216,7 +1217,7 @@
   - KG Volpp
   - RM Merchant
   - SC Guntuku
-  publisher: PLoS One 17 (9), e0273222, 2022
+  publisher: Plos one 17 (9), e0273222, 2022
   date: '2022-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:Fu2w8maKXqMC
   gsid: 76_hrfUAAAAJ&hl=en
@@ -1236,21 +1237,6 @@
     \ and \u2026, 2021"
   date: '2021-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:bnK-pcrLprsC
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:1yQoGdGgb4wC
-  title: 'Interactive Data Visualization with Python: Present your data as an effective
-    and compelling story'
-  authors:
-  - A Belorkar
-  - SC Guntuku
-  - S Hora
-  - A Kumar
-  publisher: Packt Publishing Ltd, 2020
-  date: '2020-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:1yQoGdGgb4wC
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
@@ -1320,9 +1306,39 @@
   - SK Srinivas
   - EV Klinger
   - '...'
-  publisher: JMIR Formative Research 6 (3), e28379, 2022
+  publisher: JMIR formative research 6 (3), e28379, 2022
   date: '2022-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:ye4kPcJQO24C
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:1yQoGdGgb4wC
+  title: 'Interactive Data Visualization with Python: Present your data as an effective
+    and compelling story'
+  authors:
+  - A Belorkar
+  - SC Guntuku
+  - S Hora
+  - A Kumar
+  publisher: Packt Publishing Ltd, 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:1yQoGdGgb4wC
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:NhqRSupF_l8C
+  title: Detecting Emerging Symptoms of COVID-19 using Context-based Twitter Embeddings
+  authors:
+  - R Santosh
+  - HA Schwartz
+  - J Eichstaedt
+  - L Ungar
+  - SC Guntuku
+  publisher: EMNLP COVID Workshop, 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:NhqRSupF_l8C
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
@@ -1361,54 +1377,6 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:NhqRSupF_l8C
-  title: Detecting Emerging Symptoms of COVID-19 using Context-based Twitter Embeddings
-  authors:
-  - R Santosh
-  - HA Schwartz
-  - J Eichstaedt
-  - L Ungar
-  - SC Guntuku
-  publisher: EMNLP COVID Workshop, 2020
-  date: '2020-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:NhqRSupF_l8C
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:RHpTSmoSYBkC
-  title: Current and future psychological health prediction using language and socio-demographics
-    of children for the CLPysch 2018 shared task
-  authors:
-  - SC Guntuku
-  - S Giorgi
-  - L Ungar
-  publisher: "Proceedings of the fifth workshop on computational linguistics and clinical\
-    \ \u2026, 2018"
-  date: '2018-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:RHpTSmoSYBkC
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:wbdj-CoPYUoC
-  title: 'Well-Being Depends on Social Comparison: Hierarchical Models of Twitter
-    Language Suggest That Richer Neighbors Make You Less Happy'
-  authors:
-  - S Giorgi
-  - SC Guntuku
-  - JC Eichstaedt
-  - C Pajot
-  - HA Schwartz
-  - LH Ungar
-  publisher: Proceedings of the International AAAI Conference on Web and Social Media,
-    2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:wbdj-CoPYUoC
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: 76_hrfUAAAAJ:tOudhMTPpwUC
   title: Does Social Support Expressed in Post Titles Elicit Comments in Online Substance
     Use Recovery Forums?
@@ -1433,9 +1401,24 @@
   - WR Bell
   - SC Guntuku
   - '...'
-  publisher: Modern Pathology 38 (9), 100797, 2025
+  publisher: Modern pathology 38 (9), 100797, 2025
   date: '2025-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:xtoqd-5pKcoC
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:RHpTSmoSYBkC
+  title: Current and future psychological health prediction using language and socio-demographics
+    of children for the CLPysch 2018 shared task
+  authors:
+  - SC Guntuku
+  - S Giorgi
+  - L Ungar
+  publisher: "Proceedings of the fifth workshop on computational linguistics and clinical\
+    \ \u2026, 2018"
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:RHpTSmoSYBkC
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
@@ -1457,9 +1440,45 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:wbdj-CoPYUoC
+  title: 'Well-Being Depends on Social Comparison: Hierarchical Models of Twitter
+    Language Suggest That Richer Neighbors Make You Less Happy'
+  authors:
+  - S Giorgi
+  - SC Guntuku
+  - JC Eichstaedt
+  - C Pajot
+  - HA Schwartz
+  - LH Ungar
+  publisher: Proceedings of the International AAAI Conference on Web and Social Media,
+    2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:wbdj-CoPYUoC
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:k8Z6L05lTy4C
+  title: 'Exploring a language-based interest assessment: Predicting vocational interests
+    on social media using natural language processing'
+  authors:
+  - YYL Du
+  - D Jain
+  - YM Cho
+  - DX Hou
+  - SC Guntuku
+  - L Ungar
+  - L Tay
+  publisher: Journal of Career Assessment 33 (4), 675-694, 2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:k8Z6L05lTy4C
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 76_hrfUAAAAJ:dQ2og3OwTAUC
-  title: Analyzing online reviews of substance use disorder treatment facilities in
-    the USA using machine learning
+  title: 'Analyzing Online Reviews of Substance Use Disorder Treatment Facilities
+    in the USA Using Machine Learning: Agarwal et. al'
   authors:
   - AK Agarwal
   - SC Guntuku
@@ -1523,20 +1542,17 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:k8Z6L05lTy4C
-  title: 'Exploring a language-based interest assessment: Predicting vocational interests
-    on social media using natural language processing'
+- id: 76_hrfUAAAAJ:_Re3VWB3Y0AC
+  title: Characterizing Responses to COVID-19 Vaccine Promotion on TikTok
   authors:
-  - YYL Du
-  - D Jain
-  - YM Cho
-  - DX Hou
+  - L Southwick
+  - A Francisco
+  - M Bradley
+  - E Klinger
   - SC Guntuku
-  - L Ungar
-  - L Tay
-  publisher: Journal of Career Assessment 33 (4), 675-694, 2025
-  date: '2025-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:k8Z6L05lTy4C
+  publisher: American Journal of Health Promotion, 08901171221141974, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:_Re3VWB3Y0AC
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
@@ -1553,7 +1569,7 @@
   - L Tay
   - SC Guntuku
   publisher: 'Findings of the Association for Computational Linguistics: NAACL 2025,
-    5586-5600, 2025'
+    5601-5615, 2025'
   date: '2025-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:vbGhcppDl1QC
   gsid: 76_hrfUAAAAJ&hl=en
@@ -1577,17 +1593,53 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:_Re3VWB3Y0AC
-  title: Characterizing Responses to COVID-19 Vaccine Promotion on TikTok
+- id: 76_hrfUAAAAJ:8d8msizDQcsC
+  title: 'Voice-based chatbots for English speaking practice in multilingual low-resource
+    Indian schools: A multi-stakeholder study'
   authors:
-  - L Southwick
-  - A Francisco
-  - M Bradley
-  - E Klinger
+  - S Shashidhara
+  - VB Chi
+  - AP Singh
+  - L Ungar
   - SC Guntuku
-  publisher: American Journal of Health Promotion, 08901171221141974, 2022
-  date: '2022-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:_Re3VWB3Y0AC
+  publisher: "Proceedings of the 2026 CHI Conference on Human Factors in Computing\
+    \ Systems \u2026, 2026"
+  date: '2026-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:8d8msizDQcsC
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:FAceZFleit8C
+  title: Demographic Probing of Large Language Models Lacks Construct Validity
+  authors:
+  - M Tonneau
+  - NKR Seghal
+  - N Malhotra
+  - V Orozco-Olvera
+  - '...'
+  publisher: 'arXiv e-prints, arXiv: 2601.18486, 2026'
+  date: '2026-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:FAceZFleit8C
+  gsid: 76_hrfUAAAAJ&hl=en
+  member: sharath-guntuku
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 76_hrfUAAAAJ:rmuvC79q63oC
+  title: 'Understanding gender and age differences in language use: cross-cultural
+    insights from Weibo and Facebook'
+  authors:
+  - D Pang
+  - SC Guntuku
+  - G Sherman
+  - T Liu
+  - S Rai
+  - YM Cho
+  - R You
+  - '...'
+  publisher: Humanities and Social Sciences Communications 12 (1), 1667, 2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:rmuvC79q63oC
   gsid: 76_hrfUAAAAJ&hl=en
   member: sharath-guntuku
   plugin: google-scholar.py
@@ -1612,56 +1664,9 @@
   member: sharath-guntuku
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:dhFuZR0502QC
-  title: Controlling human perception of basic user traits
-  authors:
-  - "D Preo\u0163iuc-Pietro"
-  - SC Guntuku
-  - L Ungar
-  publisher: "Proceedings of the 2017 conference on empirical methods in natural language\
-    \ \u2026, 2017"
-  date: '2017-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:dhFuZR0502QC
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:Zph67rFs4hoC
-  title: Personality, culture, and system factors-impact on affective response to
-    multimedia
-  authors:
-  - SC Guntuku
-  - MJ Scott
-  - G Ghinea
-  - W Lin
-  publisher: arXiv preprint arXiv:1606.06873, 2016
-  date: '2016-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:Zph67rFs4hoC
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 76_hrfUAAAAJ:z_wVstp3MssC
-  title: A Cross-Modal Study of Pain Across Communities in the United States
-  authors:
-  - A Aggarwal
-  - S Rai
-  - S Giorgi
-  - S Havaldar
-  - G Sherman
-  - J Mittal
-  - SC Guntuku
-  publisher: Companion Proceedings of the ACM Web Conference 2023, (pp. 1050-1058),
-    2023
-  date: '2023-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76_hrfUAAAAJ&pagesize=100&citation_for_view=76_hrfUAAAAJ:z_wVstp3MssC
-  gsid: 76_hrfUAAAAJ&hl=en
-  member: sharath-guntuku
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: doi:10.1145/3806656
-  title: Introduction to the Special Issue on Large Language Models, Conversational
-    Systems, and Generative AI in Health - Part 2
+  title: "Introduction to the Special Issue on Large Language Models, Conversational\
+    \ Systems, and Generative AI in Health\u2014Part 2"
   authors:
   - Jiayu Zhou
   - Manas Gaur
@@ -1670,7 +1675,7 @@
   - Xiaofan (Fred) Jiang
   - Tristan Naumann
   publisher: ACM Transactions on Computing for Healthcare
-  date: '2026-04-10'
+  date: '2026-06-23'
   link: https://doi.org/hbwvrt
   orcid: 0000-0002-2929-0035
   member: sharath-guntuku
