@@ -4,7 +4,7 @@ image: images/KarthikKosuri.jpg
 role: data-scientist
 group: alum
 job: Data Scientist
-affil: Penn Dental Medicine, University of Pennsylvania
+affil: Penn Dental Medicine
 links:
   home-page: https://www.dental.upenn.edu/research/center-for-integrative-global-oral-health/leadership-faculty/
 ---

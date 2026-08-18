@@ -19,6 +19,10 @@
     {% assign data = data | sort: "date" | reverse %}
   {% endif %}
 
+  {% if include.component contains "portrait" and data.size > 0 %}
+{{- "" -}}<div class="portrait-grid" data-style="{{ include.style }}">
+  {% endif %}
+
   {% for d in data %}
     {% assign style = d.style | default: include.style %}
 
@@ -58,4 +62,8 @@
       width=d.width
     %}
   {% endfor %}
+
+  {% if include.component contains "portrait" and data.size > 0 %}
+{{- "" -}}</div>
+  {% endif %}
 {% endfor %}

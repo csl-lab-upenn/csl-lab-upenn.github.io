@@ -4,7 +4,7 @@ image: images/JaiThirani.jpg
 role: undergrad
 group: alum
 job: Co-Founder & CEO
-affil: Sero (YCombinator W22)
+affil: Sero (YC W22)
 links:
   linkedin: jai-thirani-a0381112b
 ---

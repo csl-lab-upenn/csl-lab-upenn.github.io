@@ -1,6 +1,6 @@
 ---
 name: Ishwari Mulay
-image: images/fallback.svg
+image: images/IshwariMulay.jpg
 role: masters
 ---
 

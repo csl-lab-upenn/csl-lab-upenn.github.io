@@ -4,7 +4,7 @@ image: images/TingtingLiu.jpeg
 role: postdoc
 group: alum
 job: Research Scientist
-affil: National Institute on Drug Abuse (NIDA)
+affil: NIDA, NIH
 links:
   orcid: 0000-0002-8179-6180
   email: liutt@sas.upenn.edu
