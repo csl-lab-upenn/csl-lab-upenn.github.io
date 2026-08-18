@@ -2,6 +2,31 @@
   display: contents;
 }
 
+.portrait-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 185px);
+  justify-content: center;
+  align-items: start;
+  gap: 30px 10px;
+  width: 100%;
+  margin: 20px 0;
+  text-align: center;
+}
+
+.portrait-grid[data-style=alum] {
+  grid-template-columns: repeat(auto-fit, 165px);
+  gap: 25px 10px;
+}
+
+@media (max-width: 500px) {
+  .portrait-grid,
+  .portrait-grid[data-style=alum] {
+    grid-template-columns: repeat(auto-fit, 140px);
+  }
+  .portrait-grid .portrait-image {
+    width: 110px;
+  }
+}
 .portrait {
   display: inline-flex;
   justify-content: center;
@@ -11,6 +36,13 @@
   margin: 20px;
   max-width: 100%;
   text-decoration: none;
+}
+
+.portrait-grid .portrait {
+  display: flex;
+  width: 100%;
+  margin: 0;
+  gap: 15px;
 }
 
 .portrait[data-style=tiny] {
