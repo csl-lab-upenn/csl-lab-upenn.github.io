@@ -77,7 +77,7 @@ jobs:
         run: yarn add yaml
 
       - name: Personalize Jekyll config for user
-        uses: actions/github-script@v6
+        uses: actions/github-script@v8
         with:
           script: |
             const { readFileSync, writeFileSync } = require("fs");
@@ -94,7 +94,7 @@ jobs:
             writeFileSync(file, stringify(config));
 
       - name: Personalize homepage for user
-        uses: actions/github-script@v6
+        uses: actions/github-script@v8
         with:
           script: |
             const { readFileSync, writeFileSync } = require("fs");
