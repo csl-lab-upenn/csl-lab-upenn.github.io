@@ -1,6 +1,6 @@
 ---
 name: Allison Mi
-image: images/fallback.svg
+image: images/AllisonMi.jpg
 role: masters
 ---
 

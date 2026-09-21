@@ -75,7 +75,11 @@ Our work is made possible by funding from several organizations.
   image3="images/wbg.jpeg"
   link3="https://documents1.worldbank.org/curated/en/099125001262248277/pdf/P1770020efdd8702708f9d0c44309d295c4.pdf"
   tooltip3="World Bank Group"
- 
+
+  image4="images/gatesfoundation.jpg"
+  link4="https://www.gatesfoundation.org/"
+  tooltip4="Gates Foundation"
+
 %}
 
 {% include section.html %}
