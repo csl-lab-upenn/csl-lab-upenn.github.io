@@ -22,7 +22,7 @@ jobs:
 
     steps:
       - name: Print contexts
-        uses: crazy-max/ghaction-dump-context@v1
+        uses: crazy-max/ghaction-dump-context@v3
 
       - name: Checkout branch contents
         uses: actions/checkout@v3
