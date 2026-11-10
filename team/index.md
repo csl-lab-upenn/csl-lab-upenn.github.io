@@ -49,6 +49,7 @@ Past lab members who have gone on to faculty positions, research roles, industry
 
 {% include list.html data="members" component="portrait" filters="group: alum, role: data-scientist" style="alum" %}
 {% include list.html data="members" component="portrait" filters="group: alum, role: visit-student" style="alum" %}
+{% include list.html data="members" component="portrait" filters="group: alum, role: research-assistant" style="alum" %}
 {% include list.html data="members" component="portrait" filters="group: alum, role: undergrad" style="alum" %}
 {% include list.html data="members" component="portrait" filters="group: alum, role: project-manager" style="alum" %}
 {:.center}
