@@ -30,10 +30,6 @@ visit-student:
   icon: fas fa-laptop-code
   description: Visiting Student
 
-research-assistant:
-  icon: fas fa-flask
-  description: Research Assistant
-
 alumni:
   icon: fas fa-graduation-cap
   description: Alumni

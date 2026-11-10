@@ -1,8 +1,8 @@
 ---
 name: Soojin Lee
 image: images/fallback.svg
-role: research-assistant
+role: masters
 group: alum
 ---
 
-Soojin Lee was a Research Assistant at the University of Pennsylvania.
+Soojin Lee completed her Master's at the University of Pennsylvania.

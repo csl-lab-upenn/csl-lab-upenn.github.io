@@ -1,7 +1,7 @@
 ---
 name: May Ren
 image: images/fallback.svg
-role: research-assistant
+role: masters
 ---
 
-May Ren is a Research Assistant at the University of Pennsylvania.
+May Ren is a Master's student at the University of Pennsylvania.
