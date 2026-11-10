@@ -5,4 +5,4 @@ role: masters
 group: alum
 ---
 
-Soojin Lee completed her Master's at the University of Pennsylvania.
+Soojin Lee was a Master's student in Computer Science at the University of Pennsylvania, where she worked on the lab's humanlike chatbot platform for survey and health research.
