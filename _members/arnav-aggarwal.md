@@ -3,6 +3,8 @@ name: Arnav Aggarwal
 image: images/ArnavAggarwal.jpg
 role: masters
 group: alum
+job: Associate
+affil: EQT
 links:
   email: arnavagg@seas.upenn.edu
 ---

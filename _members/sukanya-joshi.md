@@ -3,8 +3,8 @@ name: Sukanya Joshi
 image: images/SukanyaJoshi.jpg
 role: masters
 group: alum
-job: Data Scientist
-affil: H2O.ai
+job: Sr. Technical Architect, AI/ML
+affil: Snowflake
 links:
   home-page: https://www.linkedin.com/in/sukanyajoshi/
   email: sukanyaj@upenn.edu

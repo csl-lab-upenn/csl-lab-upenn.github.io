@@ -3,7 +3,7 @@ name: Roshan Santhosh
 image: images/RoshanSantosh.jpg
 role: masters
 group: alum
-job: Data Scientist
+job: Machine Learning Engineer
 affil: Adobe
 links:
   github: rsk2327

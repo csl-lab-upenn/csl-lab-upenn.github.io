@@ -3,6 +3,8 @@ name: Shivani Reddy Rapole
 image: images/ShivaniRapole.jpg
 role: masters
 group: alum
+job: Software Engineer
+affil: AWS
 links:
   home-page: http://shivanirapole.github.io/
   email: srapole@seas.upenn.edu

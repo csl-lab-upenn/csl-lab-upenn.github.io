@@ -3,8 +3,7 @@ name: Khushi Shelat
 image: images/KhushiShelat.jpg
 role: masters
 group: alum
-job: Data Scientist
-affil: Rupa Health
+affil: Parallel Web Systems
 links:
   email: kshelat@wharton.upenn.edu
   twitter: khushi_shelat

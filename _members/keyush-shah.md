@@ -3,6 +3,8 @@ name: Keyush Shah
 image: images/KeyushShah.jpg
 role: masters
 group: alum
+job: Software Engineer
+affil: Omnicom
 links:
   github: keyush06
   linkedin: keyush-shah-3a1b32184

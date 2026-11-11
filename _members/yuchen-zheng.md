@@ -3,6 +3,8 @@ name: Yuchen Zheng
 image: images/YuchenZheng.jpg
 role: masters
 group: alum
+job: Software Developer
+affil: Morgan Stanley
 links:
   linkedin: yuchen-zheng-a9805b202
 ---

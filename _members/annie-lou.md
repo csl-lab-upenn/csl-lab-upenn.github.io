@@ -3,6 +3,8 @@ name: Annie Lou
 image: images/AnnieLou.jpg
 role: masters
 group: alum
+job: Software Engineer
+affil: Microsoft AI
 links:
   linkedin: annielou-profile
 ---
